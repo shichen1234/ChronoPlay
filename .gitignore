@@ -1,0 +1,52 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Secrets & Environment Configuration
+.env
+.env.*
+!.env.example
+server/.env
+config.js
+public/探测价格变动数据程序/config.js
+
+# Build & Package outputs
+node_modules
+dist
+dist-ssr
+desktop-app
+release
+scratch
+*.sql
+*.csv
+*.local
+
+# Temporary Debug & Scratch Scripts
+test_*.js
+check_*.js
+find_*.js
+search_*.js
+fetch_*.js
+scratch_*
+_tmp_*
+calculate_*.js
+popular_*.js
+top200_*.json
+parsed_*.json
+kill_ports.js
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
