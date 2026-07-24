@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="aaBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b" />
+      <stop offset="100%" stop-color="#312e81" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#aaBg)"/>
+  <circle cx="160" cy="80" r="60" fill="#6366f1" opacity="0.3"/>
+  <!-- Court Gavel & Objection Starburst -->
+  <g fill="#f59e0b" stroke="#78350f" stroke-width="3" stroke-linejoin="round">
+    <!-- Gavel Head -->
+    <rect x="130" y="45" width="60" height="30" rx="4"/>
+    <rect x="153" y="75" width="14" height="50" rx="2"/>
+    <!-- Sound Block -->
+    <polygon points="120,130 200,130 190,142 130,142" />
+  </g>
+</svg>

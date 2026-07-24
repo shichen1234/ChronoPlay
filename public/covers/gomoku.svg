@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="100%" height="100%">
+    <rect width="100%" height="100%" fill="#1e8449"/>
+    <!-- Wooden Go Board background -->
+    <rect x="80" y="20" width="160" height="120" rx="6" fill="#d4ac0d" stroke="#0f172a" stroke-width="4"/>
+    <!-- Grid lines -->
+    <line x1="105" y1="20" x2="105" y2="140" stroke="#7d6608" stroke-width="2"/>
+    <line x1="130" y1="20" x2="130" y2="140" stroke="#7d6608" stroke-width="2"/>
+    <line x1="160" y1="20" x2="160" y2="140" stroke="#7d6608" stroke-width="2"/>
+    <line x1="190" y1="20" x2="190" y2="140" stroke="#7d6608" stroke-width="2"/>
+    <line x1="215" y1="20" x2="215" y2="140" stroke="#7d6608" stroke-width="2"/>
+    
+    <line x1="80" y1="45" x2="240" y2="45" stroke="#7d6608" stroke-width="2"/>
+    <line x1="80" y1="80" x2="240" y2="80" stroke="#7d6608" stroke-width="2"/>
+    <line x1="80" y1="115" x2="240" y2="115" stroke="#7d6608" stroke-width="2"/>
+    
+    <g stroke="#0f172a" stroke-width="3">
+      <!-- 5 in a row stones -->
+      <circle cx="105" cy="115" r="11" fill="#1e293b"/>
+      <circle cx="130" cy="80" r="11" fill="#f8fafc"/>
+      <circle cx="160" cy="80" r="11" fill="#1e293b"/>
+      <circle cx="190" cy="80" r="11" fill="#f8fafc"/>
+      <circle cx="215" cy="45" r="11" fill="#1e293b"/>
+    </g>
+  </svg>

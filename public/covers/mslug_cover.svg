@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="100%" height="100%">
+  <!-- Background (Cool military slate grey) -->
+  <rect width="100%" height="100%" fill="#7f8c8d"/>
+  
+  <!-- Ground -->
+  <line x1="0" y1="130" x2="320" y2="130" stroke="#0f172a" stroke-width="4"/>
+  
+  <!-- SV-001 Badass Tank Group -->
+  <g transform="translate(90, 20)" stroke="#0f172a" stroke-width="4" stroke-linejoin="round">
+    <!-- Cannon / Turret Gun -->
+    <rect x="95" y="42" width="45" height="12" fill="#34495e" rx="3" ry="3" />
+    <circle cx="140" cy="48" r="8" fill="#e67e22" stroke="none" /> <!-- Muzzle Flash outline concept -->
+
+    <!-- Upper Cabin / Turret -->
+    <path d="M 30,60 L 95,60 L 90,30 Q 70,15 45,30 Z" fill="#2c3e50" />
+    
+    <!-- Heavy Machine Gun on top -->
+    <path d="M 20,25 L 45,25 L 35,15 Z" fill="#1e293b" />
+    
+    <!-- Main Tank Body -->
+    <path d="M 5,90 L 125,90 L 115,60 L 15,60 Z" fill="#2c3e50" />
+    
+    <!-- Continuous Tracks (Treads) -->
+    <rect x="0" y="90" width="130" height="26" rx="13" ry="13" fill="#1e293b" />
+    
+    <!-- Metal Wheels inside treads -->
+    <circle cx="20" cy="103" r="8" fill="#7f8c8d" />
+    <circle cx="20" cy="103" r="3" fill="#0f172a" />
+    
+    <circle cx="45" cy="103" r="8" fill="#7f8c8d" />
+    <circle cx="45" cy="103" r="3" fill="#0f172a" />
+    
+    <circle cx="70" cy="103" r="8" fill="#7f8c8d" />
+    <circle cx="70" cy="103" r="3" fill="#0f172a" />
+    
+    <circle cx="95" cy="103" r="8" fill="#7f8c8d" />
+    <circle cx="95" cy="103" r="3" fill="#0f172a" />
+    
+    <circle cx="114" cy="103" r="6" fill="#7f8c8d" />
+  </g>
+</svg>

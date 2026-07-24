@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="aa1Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#3b82f6" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#aa1Bg)"/>
+  <circle cx="160" cy="80" r="60" fill="#60a5fa" opacity="0.3"/>
+  <!-- Defense Attorney Badge & Gavel -->
+  <g fill="#fbbf24" stroke="#78350f" stroke-width="3" stroke-linejoin="round">
+    <circle cx="160" cy="70" r="32" fill="#f59e0b" stroke="#78350f" stroke-width="4"/>
+    <polygon points="160,45 167,62 185,62 170,73 176,90 160,79 144,90 150,73 135,62 153,62" fill="#fef08a"/>
+  </g>
+</svg>

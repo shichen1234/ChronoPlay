@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="100%" height="100%">
+    <rect width="100%" height="100%" fill="#16a085"/>
+    <!-- Tropical Sun & Palm Silhouette -->
+    <circle cx="240" cy="60" r="32" fill="#f1c40f" opacity="0.5"/>
+    <g stroke="#0f172a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+      <!-- Stone Axe & Skateboard -->
+      <!-- Skateboard -->
+      <rect x="90" y="115" width="140" height="12" rx="6" fill="#e67e22"/>
+      <circle cx="115" cy="132" r="8" fill="#334155"/>
+      <circle cx="205" cy="132" r="8" fill="#334155"/>
+      <!-- Stone Axe -->
+      <path d="M 140,105 L 180,45" stroke="#7f8c8d" stroke-width="6"/>
+      <path d="M 165,35 Q 195,45 185,75 L 165,65 Z" fill="#e2e8f0"/>
+    </g>
+  </svg>

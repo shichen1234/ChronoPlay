@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="100%" height="100%">
+  <!-- Full rectangular background filling 100% of the card area with deep navy slate -->
+  <rect width="100%" height="100%" fill="#1e293b"/>
+  
+  <!-- Subtle tactical circle/grid background -->
+  <circle cx="160" cy="80" r="58" fill="#334155" opacity="0.45"/>
+  <circle cx="160" cy="80" r="45" fill="none" stroke="#475569" stroke-width="2" stroke-dasharray="6,6" opacity="0.6"/>
+  
+  <g stroke="#0f172a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Crossed Commando Assault Rifle 1 (Top-Left to Bottom-Right) -->
+    <g transform="translate(160,85) rotate(28) translate(-160,-85)">
+      <rect x="70" y="78" width="180" height="18" rx="4" fill="#64748b" />
+      <rect x="90" y="74" width="60" height="6" rx="2" fill="#475569" />
+      <rect x="230" y="81" width="25" height="12" rx="2" fill="#334155" />
+      <path d="M 120,96 L 110,120 L 125,120 L 135,96 Z" fill="#475569" />
+      <path d="M 180,96 L 180,125 L 196,125 L 196,96 Z" fill="#334155" />
+    </g>
+    
+    <!-- Crossed Commando Assault Rifle 2 (Top-Right to Bottom-Left) -->
+    <g transform="translate(160,85) rotate(-28) translate(-160,-85)">
+      <rect x="70" y="78" width="180" height="18" rx="4" fill="#94a3b8" />
+      <rect x="90" y="74" width="60" height="6" rx="2" fill="#64748b" />
+      <rect x="230" y="81" width="25" height="12" rx="2" fill="#475569" />
+      <path d="M 120,96 L 110,120 L 125,120 L 135,96 Z" fill="#64748b" />
+      <path d="M 180,96 L 180,125 L 196,125 L 196,96 Z" fill="#475569" />
+    </g>
+    
+    <!-- Iconic Red 'S' (Spread-shot) Power-Up Capsule Emblem in Center -->
+    <!-- Golden Eagle Wings on sides of capsule -->
+    <polygon points="135,42 105,30 112,46 95,44 115,56 135,52" fill="#f1c40f" />
+    <polygon points="185,42 215,30 208,46 225,44 205,56 185,52" fill="#f1c40f" />
+    
+    <!-- Red Capsule Body -->
+    <rect x="135" y="28" width="50" height="36" rx="18" fill="#e74c3c" />
+    <path d="M 145,34 L 175,34 A 12,12 0 0,1 175,58 L 145,58 A 12,12 0 0,1 145,34 Z" fill="#c0392b" stroke="none"/>
+    
+    <!-- White Letter 'S' inside capsule -->
+    <path d="M 166,35 Q 153,33 153,40 Q 153,46 166,46 Q 168,49 166,52 Q 153,54 153,52" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+  </g>
+</svg>

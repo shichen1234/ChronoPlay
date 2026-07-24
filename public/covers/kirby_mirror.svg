@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="kirbyBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#831843" />
+      <stop offset="100%" stop-color="#be185d" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#kirbyBg)"/>
+  <circle cx="160" cy="80" r="60" fill="#f472b6" opacity="0.3"/>
+  <!-- Pink Kirby Circle & Star -->
+  <g stroke="#831843" stroke-width="4" stroke-linejoin="round">
+    <circle cx="160" cy="80" r="45" fill="#f472b6"/>
+    <!-- Eyes -->
+    <ellipse cx="148" cy="70" rx="4" ry="10" fill="#0f172a"/>
+    <ellipse cx="172" cy="70" rx="4" ry="10" fill="#0f172a"/>
+    <!-- Cheeks -->
+    <ellipse cx="138" cy="84" rx="6" ry="3" fill="#fb7185"/>
+    <ellipse cx="182" cy="84" rx="6" ry="3" fill="#fb7185"/>
+    <!-- Smile -->
+    <path d="M 154,82 Q 160,88 166,82" stroke="#831843" stroke-width="3" fill="none"/>
+  </g>
+</svg>

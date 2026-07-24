@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="samshoBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#450a0a" />
+      <stop offset="100%" stop-color="#991b1b" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#samshoBg)"/>
+  <circle cx="160" cy="80" r="65" fill="#dc2626" opacity="0.4"/>
+  <!-- Katana Swords Crossed -->
+  <g stroke="#f8fafc" stroke-width="4" stroke-linecap="round">
+    <line x1="110" y1="130" x2="210" y2="30" />
+    <line x1="210" y1="130" x2="110" y2="30" />
+    <circle cx="160" cy="80" r="8" fill="#f59e0b" stroke="#78350f" stroke-width="2"/>
+  </g>
+</svg>

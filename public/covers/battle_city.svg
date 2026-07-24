@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="100%" height="100%">
+    <rect width="100%" height="100%" fill="#27ae60"/>
+    <rect x="20" y="20" width="40" height="120" fill="#1e8449" opacity="0.5"/>
+    <rect x="260" y="20" width="40" height="120" fill="#1e8449" opacity="0.5"/>
+    <g stroke="#0f172a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+      <!-- Brick base line -->
+      <path d="M 120,130 L 200,130 L 200,115 L 120,115 Z" fill="#d35400"/>
+      <line x1="160" y1="115" x2="160" y2="130"/>
+      <!-- Eagle star base -->
+      <polygon points="160,95 168,108 182,108 171,118 175,130 160,122 145,130 149,118 138,108 152,108" fill="#f1c40f"/>
+      <!-- Tank Body -->
+      <rect x="135" y="45" width="50" height="40" rx="4" fill="#f39c12"/>
+      <rect x="125" y="40" width="14" height="50" rx="3" fill="#334155"/>
+      <rect x="181" y="40" width="14" height="50" rx="3" fill="#334155"/>
+      <!-- Turret -->
+      <circle cx="160" cy="65" r="14" fill="#e67e22"/>
+      <rect x="156" y="20" width="8" height="35" fill="#e2e8f0"/>
+    </g>
+  </svg>

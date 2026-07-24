@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="100%" height="100%">
+  <defs>
+    <linearGradient id="fe2Bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0c4a6e" />
+      <stop offset="100%" stop-color="#0284c7" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#fe2Bg)"/>
+  <circle cx="160" cy="80" r="60" fill="#38bdf8" opacity="0.3"/>
+  <!-- Blazing Sword Dragon & Blade -->
+  <g stroke="#bae6fd" stroke-width="4" stroke-linecap="round" fill="none">
+    <line x1="160" y1="25" x2="160" y2="135" />
+    <line x1="135" y1="55" x2="185" y2="55" />
+    <circle cx="160" cy="55" r="7" fill="#f59e0b" stroke="#78350f" stroke-width="2"/>
+  </g>
+</svg>

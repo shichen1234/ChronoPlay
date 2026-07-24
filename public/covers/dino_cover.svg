@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 160" width="100%" height="100%">
+  <!-- Full rectangular background filling 100% of the card area with vibrant warm orange -->
+  <rect width="100%" height="100%" fill="#e67e22"/>
+  
+  <!-- Subtle clean sun circle -->
+  <circle cx="160" cy="80" r="48" fill="#f1c40f" opacity="0.3"/>
+  
+  <!-- Clean Ground Line -->
+  <line x1="0" y1="130" x2="320" y2="130" stroke="#0f172a" stroke-width="4"/>
+  
+  <g stroke="#0f172a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round">
+    <!-- Super Simple Minimalist Dinosaur Head & Neck Silhouette in Background -->
+    <path d="M 85,130 L 95,75 Q 105,35 145,35 L 180,35 Q 210,35 215,65 L 245,75 Q 230,92 205,88 L 195,100 L 175,92 L 155,130 Z" fill="#2c3e50" />
+    <!-- 3 simple clean teeth -->
+    <polygon points="190,72 195,62 200,72" fill="#ffffff" stroke="#0f172a" stroke-width="2"/>
+    <polygon points="205,74 210,64 215,74" fill="#ffffff" stroke="#0f172a" stroke-width="2"/>
+    <polygon points="185,83 192,90 198,83" fill="#ffffff" stroke="#0f172a" stroke-width="2"/>
+    <!-- Simple cute eye dot -->
+    <circle cx="150" cy="55" r="5" fill="#e74c3c" stroke="none" />
+    
+    <!-- Super Simple Minimalist Green Retro Cadillac Car in Foreground -->
+    <!-- Lower Car Body -->
+    <rect x="55" y="96" width="210" height="26" rx="6" fill="#10b981" />
+    <!-- Iconic Tailfin at back -->
+    <polygon points="55,96 75,96 55,82" fill="#059669" />
+    <!-- Upper Cabin/Windshield -->
+    <path d="M 120,96 L 150,76 L 205,76 L 230,96 Z" fill="#064e3b" />
+    
+    <!-- Simple Clean Wheels -->
+    <circle cx="100" cy="122" r="14" fill="#334155" />
+    <circle cx="100" cy="122" r="6" fill="#f8fafc" stroke="#0f172a" stroke-width="2"/>
+    
+    <circle cx="220" cy="122" r="14" fill="#334155" />
+    <circle cx="220" cy="122" r="6" fill="#f8fafc" stroke="#0f172a" stroke-width="2"/>
+  </g>
+</svg>
