@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>ChronoPlay 浏览器</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background: #171a21;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      width: 100vw;
+    }
+    
+    #nav-bar {
+      height: 38px;
+      background: #171a21;
+      border-bottom: 1px solid #3a3a3a;
+      display: flex;
+      align-items: center;
+      padding: 0 16px;
+      box-sizing: border-box;
+      gap: 12px;
+      position: relative;
+      flex-shrink: 0;
+      z-index: 100;
+    }
+    
+    .nav-btn {
+      background: #2a475e;
+      border: 0;
+      color: #fff;
+      padding: 5px 12px;
+      border-radius: 3px;
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: bold;
+      transition: background 0.2s;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .nav-btn:hover:not(:disabled) {
+      background: #386080;
+    }
+    
+    .nav-btn:disabled {
+      opacity: 0.3;
+      cursor: default;
+    }
+    
+    #btn-reload {
+      font-size: 14px;
+    }
+    
+    /* 进度条样式 */
+    #progress-container {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 2px;
+      background: transparent;
+      overflow: hidden;
+    }
+    
+    #progress-bar {
+      height: 100%;
+      width: 0%;
+      background: linear-gradient(to right, #00f2fe, #4facfe);
+      transition: width 0.2s ease, opacity 0.2s ease;
+      opacity: 0;
+    }
+    
+    #webview-container {
+      flex: 1;
+      width: 100%;
+      position: relative;
+    }
+    
+    webview {
+      width: 100%;
+      height: 100%;
+      border: none;
+      background: #171a21;
+    }
+  </style>
+</head>
+<body>
+  <div id="nav-bar">
+    <button id="btn-back" class="nav-btn" disabled>◀</button>
+    <button id="btn-forward" class="nav-btn" disabled>▶</button>
+    <button id="btn-reload" class="nav-btn">↻</button>
+    
+    <div id="progress-container">
+      <div id="progress-bar"></div>
+    </div>
+  </div>
+  
+  <div id="webview-container">
+    <webview id="web-view" src="about:blank" useragent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"></webview>
+  </div>
+
+  <script>
+    const webview = document.getElementById('web-view');
+    const btnBack = document.getElementById('btn-back');
+    const btnForward = document.getElementById('btn-forward');
+    const btnReload = document.getElementById('btn-reload');
+    const progressBar = document.getElementById('progress-bar');
+    
+    // 从 URL 参数中获取初始载入的网页
+    const urlParams = new URLSearchParams(window.location.search);
+    const targetUrl = urlParams.get('url');
+    if (targetUrl) {
+      webview.setAttribute('src', targetUrl);
+    }
+    
+    // 监听导航按钮
+    btnBack.addEventListener('click', () => {
+      if (webview.canGoBack()) webview.goBack();
+    });
+    
+    btnForward.addEventListener('click', () => {
+      if (webview.canGoForward()) webview.goForward();
+    });
+    
+    btnReload.addEventListener('click', () => {
+      webview.reload();
+    });
+    
+    // 更新导航状态
+    const updateNavigation = () => {
+      try {
+        btnBack.disabled = !webview.canGoBack();
+        btnForward.disabled = !webview.canGoForward();
+      } catch (e) {}
+    };
+    
+    webview.addEventListener('did-navigate', updateNavigation);
+    webview.addEventListener('did-navigate-in-page', updateNavigation);
+    webview.addEventListener('dom-ready', updateNavigation);
+    
+    // 进度条控制
+    let progressTimer = null;
+    let currentProgress = 0;
+    
+    const startProgress = () => {
+      if (progressTimer) clearInterval(progressTimer);
+      progressBar.style.opacity = '1';
+      progressBar.style.width = '10%';
+      currentProgress = 10;
+      
+      progressTimer = setInterval(() => {
+        if (currentProgress < 85) {
+          currentProgress += Math.random() * 8 + 2;
+          progressBar.style.width = currentProgress + '%';
+        }
+      }, 250);
+    };
+    
+    const fillAndHideProgress = () => {
+      if (progressTimer) clearInterval(progressTimer);
+      progressBar.style.width = '100%';
+      setTimeout(() => {
+        progressBar.style.opacity = '0';
+        setTimeout(() => {
+          progressBar.style.width = '0%';
+        }, 200);
+      }, 300);
+    };
+    
+    webview.addEventListener('did-start-loading', startProgress);
+    webview.addEventListener('did-stop-loading', fillAndHideProgress);
+    webview.addEventListener('did-fail-load', fillAndHideProgress);
+  </script>
+</body>
+</html>

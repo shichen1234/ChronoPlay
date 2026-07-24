@@ -1,0 +1,37 @@
+{
+  "name": "chronoplay",
+  "private": true,
+  "version": "0.0.0",
+  "main": "electron-main.js",
+  "bin": "server/server.js",
+  "scripts": {
+    "dev": "concurrently \"vite\" \"node server/server.js\"",
+    "build": "vite build",
+    "preview": "vite preview",
+    "electron:start": "electron .",
+    "package:desktop": "node build.js"
+  },
+  "dependencies": {
+    "axios": "^1.18.1",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mockjs": "^1.1.0",
+    "pinia": "^3.0.4",
+    "vue": "^3.2.45",
+    "vue-router": "^4.6.4",
+    "ws": "^8.21.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "concurrently": "^8.2.2",
+    "electron": "^43.0.0",
+    "electron-packager": "^17.1.2",
+    "vite": "^4.1.0"
+  },
+  "pkg": {
+    "assets": [
+      "server/**/*"
+    ]
+  }
+}
