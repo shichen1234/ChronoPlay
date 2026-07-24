@@ -1,0 +1,2496 @@
+{
+  "banner": "https://cdn.cloudflare.steamstatic.com/steam/clusters/frontpage/0e0f31db5452f1e29eb0e527/page_bg_schinese.jpg",
+  "banner_appid": 3240220,
+  "games": [
+    {
+      "id": 1091500,
+      "name": "赛博朋克 2077",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "298.00",
+      "final_price": "253.30",
+      "currency": "CNY"
+    },
+    {
+      "id": 1174180,
+      "name": "荒野大镖客：救赎 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "279.00",
+      "final_price": "209.25",
+      "currency": "CNY"
+    },
+    {
+      "id": 413150,
+      "name": "星露谷物语",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "48.00",
+      "final_price": "16.32",
+      "currency": "CNY"
+    },
+    {
+      "id": 1326470,
+      "name": "森林之子",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "108.00",
+      "final_price": "54.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1086940,
+      "name": "博德之门 3",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "298.00",
+      "final_price": "119.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 2001120,
+      "name": "双影奇境",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2001120/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "49.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 2138330,
+      "name": "赛博朋克 2077：往日之影",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2138330/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "149.00",
+      "final_price": "29.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 1623730,
+      "name": "Palworld / 幻兽帕鲁",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623730/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "108.00",
+      "final_price": "36.72",
+      "currency": "CNY"
+    },
+    {
+      "id": 1245620,
+      "name": "艾尔登法环",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "298.00",
+      "final_price": "253.30",
+      "currency": "CNY"
+    },
+    {
+      "id": 2358720,
+      "name": "黑神话：悟空",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2358720/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "268.00",
+      "final_price": "67.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 550,
+      "name": "求生之路 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "42.00",
+      "final_price": "33.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 292030,
+      "name": "巫师 3：狂猎",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "149.00",
+      "final_price": "126.65",
+      "currency": "CNY"
+    },
+    {
+      "id": 2050650,
+      "name": "生化危机 4 重制版",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "118.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 814380,
+      "name": "只狼：影逝二度",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "268.00",
+      "final_price": "214.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 1551360,
+      "name": "极限竞速：地平线 5",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "248.00",
+      "final_price": "49.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 990080,
+      "name": "霍格沃茨之遗",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/990080/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "298.00",
+      "final_price": "59.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 105600,
+      "name": "泰拉瑞亚",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "36.00",
+      "final_price": "12.24",
+      "currency": "CNY"
+    },
+    {
+      "id": 1172470,
+      "name": "Apex 英雄",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+      "discount_percent": 0,
+      "discounted": false,
+      "original_price": "0.00",
+      "final_price": "0.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 582010,
+      "name": "怪物猎人：世界",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "203.00",
+      "final_price": "81.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 289070,
+      "name": "文明 VI",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "199.00",
+      "final_price": "49.75",
+      "currency": "CNY"
+    },
+    {
+      "id": 1145360,
+      "name": "黑帝斯 (Hades)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "92.00",
+      "final_price": "78.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 1817070,
+      "name": "漫威蜘蛛侠：重制版",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "379.00",
+      "final_price": "94.75",
+      "currency": "CNY"
+    },
+    {
+      "id": 1817190,
+      "name": "蜘蛛侠：迈尔斯·莫拉莱斯",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817190/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "319.00",
+      "final_price": "191.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 1446780,
+      "name": "怪物猎人：崛起",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "243.00",
+      "final_price": "121.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 646570,
+      "name": "杀戮尖塔 (Slay the Spire)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/646570/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "80.00",
+      "final_price": "64.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 250900,
+      "name": "以撒的结合：胎衣",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/250900/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "48.00",
+      "final_price": "19.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 1966720,
+      "name": "致命公司 (Lethal Company)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "42.00",
+      "final_price": "12.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 1627720,
+      "name": "匹诺曹的谎言 (Lies of P)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1627720/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "298.00",
+      "final_price": "178.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 1282100,
+      "name": "遗迹 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1282100/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "245.00",
+      "final_price": "196.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1250410,
+      "name": "微软模拟飞行",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1250410/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "419.00",
+      "final_price": "335.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 252490,
+      "name": "腐蚀 (Rust)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "171.00",
+      "final_price": "58.14",
+      "currency": "CNY"
+    },
+    {
+      "id": 730,
+      "name": "反恐精英 2 (CS2)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+      "discount_percent": 0,
+      "discounted": false,
+      "original_price": "0.00",
+      "final_price": "0.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 578080,
+      "name": "绝地求生 (PUBG)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
+      "discount_percent": 0,
+      "discounted": false,
+      "original_price": "0.00",
+      "final_price": "0.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 381210,
+      "name": "黎明杀机",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "82.00",
+      "final_price": "27.88",
+      "currency": "CNY"
+    },
+    {
+      "id": 227300,
+      "name": "欧洲卡车模拟 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/227300/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "88.00",
+      "final_price": "22.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 255710,
+      "name": "都市：天际线",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/255710/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "108.00",
+      "final_price": "70.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 949230,
+      "name": "都市：天际线 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "218.00",
+      "final_price": "65.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 1172620,
+      "name": "盗贼之海",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "116.00",
+      "final_price": "29.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 945360,
+      "name": "太空杀 (Among Us)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "22.00",
+      "final_price": "14.30",
+      "currency": "CNY"
+    },
+    {
+      "id": 892970,
+      "name": "英灵神殿",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "70.00",
+      "final_price": "14.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 294100,
+      "name": "边缘世界",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "118.00",
+      "final_price": "40.12",
+      "currency": "CNY"
+    },
+    {
+      "id": 264710,
+      "name": "深海迷航 (Subnautica)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "80.00",
+      "final_price": "68.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 367520,
+      "name": "空洞骑士",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "48.00",
+      "final_price": "12.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 268910,
+      "name": "茶杯头",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "68.00",
+      "final_price": "13.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 588650,
+      "name": "死亡细胞 (Dead Cells)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "80.00",
+      "final_price": "60.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 242760,
+      "name": "森林 (The Forest)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "70.00",
+      "final_price": "23.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 648800,
+      "name": "木筏求生 (Raft)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "68.00",
+      "final_price": "51.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 239140,
+      "name": "消逝的光芒",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/239140/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "109.00",
+      "final_price": "21.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 534380,
+      "name": "消逝的光芒 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/534380/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "138.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 993090,
+      "name": "无损缩放 (Lossless Scaling)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/993090/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "32.00",
+      "final_price": "27.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 1151640,
+      "name": "地平线：零之曙光",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151640/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "128.70",
+      "currency": "CNY"
+    },
+    {
+      "id": 1222140,
+      "name": "底特律：化身为人",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222140/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "128.00",
+      "final_price": "64.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1426210,
+      "name": "双人成行",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "118.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 730580,
+      "name": "百万大赛车 (MegaRace)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/730580/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "15.00",
+      "final_price": "9.75",
+      "currency": "CNY"
+    },
+    {
+      "id": 1222700,
+      "name": "逃出生天 (A Way Out)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222700/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "118.00",
+      "final_price": "23.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 620,
+      "name": "传送门 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "42.00",
+      "final_price": "33.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 400,
+      "name": "传送门",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/400/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "42.00",
+      "final_price": "35.70",
+      "currency": "CNY"
+    },
+    {
+      "id": 546560,
+      "name": "半条命：艾利克斯",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/546560/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "163.00",
+      "final_price": "81.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 548430,
+      "name": "深岩银河",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "108.00",
+      "final_price": "32.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 1716740,
+      "name": "星空 (Starfield)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "298.00",
+      "final_price": "223.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 377160,
+      "name": "辐射 4",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "99.00",
+      "final_price": "33.66",
+      "currency": "CNY"
+    },
+    {
+      "id": 489830,
+      "name": "上古卷轴 5：天际 特别版",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "165.00",
+      "final_price": "33.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 3240220,
+      "name": "侠盗猎车手 5 增强版 (GTA5)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3240220/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "74.50",
+      "final_price": "63.32",
+      "currency": "CNY"
+    },
+    {
+      "id": 322330,
+      "name": "饥荒联机版",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/322330/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "24.00",
+      "final_price": "20.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 1868140,
+      "name": "潜水员戴夫",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1868140/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "80.00",
+      "final_price": "32.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1260320,
+      "name": "猛兽派对 (Party Animals)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1260320/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "98.00",
+      "final_price": "49.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1196590,
+      "name": "生化危机 8：村庄",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "168.30",
+      "currency": "CNY"
+    },
+    {
+      "id": 2477340,
+      "name": "远征：泥泞奔驰游戏 (Expeditions)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2477340/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "169.00",
+      "final_price": "126.75",
+      "currency": "CNY"
+    },
+    {
+      "id": 2322560,
+      "name": "完蛋！我被美女包围了！",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2322560/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "42.00",
+      "final_price": "8.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 1593500,
+      "name": "战神 (God of War)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "345.00",
+      "final_price": "258.75",
+      "currency": "CNY"
+    },
+    {
+      "id": 1363080,
+      "name": "庄园领主 (Manor Lords)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1363080/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "149.00",
+      "final_price": "50.66",
+      "currency": "CNY"
+    },
+    {
+      "id": 1328670,
+      "name": "质量效应 传奇版",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1328670/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "248.00",
+      "final_price": "74.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 22380,
+      "name": "辐射：新维加斯",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/22380/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "36.00",
+      "final_price": "18.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 763890,
+      "name": "漫野奇谭",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/763890/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "75.00",
+      "final_price": "48.75",
+      "currency": "CNY"
+    },
+    {
+      "id": 1846380,
+      "name": "极品飞车：不羁",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1846380/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "248.00",
+      "final_price": "198.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 812140,
+      "name": "刺客信条：奥德赛",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/812140/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "298.00",
+      "final_price": "59.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 412020,
+      "name": "地铁：离去",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/412020/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "149.00",
+      "final_price": "104.30",
+      "currency": "CNY"
+    },
+    {
+      "id": 2835570,
+      "name": "恶魔轮盘 (Buckshot Roulette)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2835570/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "12.00",
+      "final_price": "2.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 1151340,
+      "name": "辐射 76",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1151340/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "165.00",
+      "final_price": "82.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 870780,
+      "name": "控制 (Control)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "128.70",
+      "currency": "CNY"
+    },
+    {
+      "id": 8870,
+      "name": "生化奇兵：无限",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/8870/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "95.00",
+      "final_price": "47.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 1850570,
+      "name": "死亡搁浅 导演剪辑版",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "118.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 958400,
+      "name": "赛车计划 3",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/958400/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "298.00",
+      "final_price": "74.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 1659040,
+      "name": "杀手 3 (HITMAN)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659040/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "279.00",
+      "final_price": "94.86",
+      "currency": "CNY"
+    },
+    {
+      "id": 359550,
+      "name": "彩虹六号：围攻",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "88.00",
+      "final_price": "66.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1517290,
+      "name": "战地 2042",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1517290/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "248.00",
+      "final_price": "124.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1238810,
+      "name": "战地 5",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1238810/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "228.00",
+      "final_price": "45.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 1238840,
+      "name": "战地 1",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1238840/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "128.70",
+      "currency": "CNY"
+    },
+    {
+      "id": 1088850,
+      "name": "漫威银河护卫队",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1088850/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "359.00",
+      "final_price": "251.30",
+      "currency": "CNY"
+    },
+    {
+      "id": 1030840,
+      "name": "四海兄弟：决定版",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030840/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "139.00",
+      "final_price": "34.75",
+      "currency": "CNY"
+    },
+    {
+      "id": 1252330,
+      "name": "死亡循环 (DEATHLOOP)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1252330/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "249.00",
+      "final_price": "84.66",
+      "currency": "CNY"
+    },
+    {
+      "id": 403640,
+      "name": "羞辱 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/403640/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "99.00",
+      "final_price": "64.35",
+      "currency": "CNY"
+    },
+    {
+      "id": 205100,
+      "name": "羞辱 (Dishonored)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/205100/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "36.00",
+      "final_price": "18.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 201810,
+      "name": "德军总部：新秩序",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/201810/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "79.00",
+      "final_price": "59.25",
+      "currency": "CNY"
+    },
+    {
+      "id": 782330,
+      "name": "毁灭战士：永恒",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "199.00",
+      "final_price": "139.30",
+      "currency": "CNY"
+    },
+    {
+      "id": 480490,
+      "name": "掠食 (Prey)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/480490/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "125.00",
+      "final_price": "25.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 601430,
+      "name": "恶灵附身 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/601430/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "129.00",
+      "final_price": "51.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 268050,
+      "name": "恶灵附身",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/268050/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "79.00",
+      "final_price": "23.70",
+      "currency": "CNY"
+    },
+    {
+      "id": 750920,
+      "name": "古墓丽影：暗影",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/750920/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "245.00",
+      "final_price": "147.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 391220,
+      "name": "古墓丽影：崛起",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/391220/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "160.00",
+      "final_price": "64.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 244850,
+      "name": "太空工程师 (Space Engineers)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/244850/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "70.00",
+      "final_price": "17.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 261550,
+      "name": "骑马与砍杀 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/261550/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "248.00",
+      "final_price": "49.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 813780,
+      "name": "帝国时代 II：决定版",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/813780/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "99.00",
+      "final_price": "64.35",
+      "currency": "CNY"
+    },
+    {
+      "id": 601150,
+      "name": "鬼泣 5",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "79.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 220,
+      "name": "Half-Life 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/220/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "42.00",
+      "final_price": "31.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 1250,
+      "name": "Killing Floor",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1250/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "68.00",
+      "final_price": "57.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 29900,
+      "name": "Dark Sector",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/29900/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "36.00",
+      "final_price": "23.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 218620,
+      "name": "PAYDAY 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "17.50",
+      "final_price": "11.38",
+      "currency": "CNY"
+    },
+    {
+      "id": 282800,
+      "name": "100% Orange Juice",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/282800/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "29.00",
+      "final_price": "17.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 304240,
+      "name": "Resident Evil",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/304240/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "98.00",
+      "final_price": "33.32",
+      "currency": "CNY"
+    },
+    {
+      "id": 321270,
+      "name": "UNLOVED",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/321270/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "22.00",
+      "final_price": "6.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 339340,
+      "name": "Resident Evil 0",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/339340/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "98.00",
+      "final_price": "73.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 410110,
+      "name": "12 is Better Than 6",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/410110/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "7.20",
+      "final_price": "5.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 413420,
+      "name": "Danganronpa 2: Goodbye Despair",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/413420/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "68.00",
+      "final_price": "57.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 418460,
+      "name": "Rising Storm 2: Vietnam",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/418460/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "7.80",
+      "final_price": "3.12",
+      "currency": "CNY"
+    },
+    {
+      "id": 431960,
+      "name": "Wallpaper Engine",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/431960/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "22.90",
+      "final_price": "6.87",
+      "currency": "CNY"
+    },
+    {
+      "id": 448510,
+      "name": "Overcooked",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/448510/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "68.00",
+      "final_price": "17.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 503560,
+      "name": "911 Operator",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/503560/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "48.00",
+      "final_price": "9.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 552500,
+      "name": "Warhammer: Vermintide 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/552500/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "10.80",
+      "final_price": "6.48",
+      "currency": "CNY"
+    },
+    {
+      "id": 571310,
+      "name": "SteamWorld Dig 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/571310/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "70.00",
+      "final_price": "14.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 674940,
+      "name": "Stick Fight: The Game",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/674940/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "7.60",
+      "final_price": "1.90",
+      "currency": "CNY"
+    },
+    {
+      "id": 728880,
+      "name": "Overcooked! 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/728880/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "98.00",
+      "final_price": "63.70",
+      "currency": "CNY"
+    },
+    {
+      "id": 774171,
+      "name": "Muse Dash",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/774171/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "18.00",
+      "final_price": "9.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 952060,
+      "name": "Resident Evil 3",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/952060/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "148.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 212680,
+      "name": "FTL: Faster Than Light (超越光速)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/212680/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "14.70",
+      "final_price": "8.82",
+      "currency": "CNY"
+    },
+    {
+      "id": 590380,
+      "name": "Into the Breach (陷阵之志)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/590380/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "17.50",
+      "final_price": "14.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 2073250,
+      "name": "Rift of the NecroDancer",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2073250/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "62.00",
+      "final_price": "49.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 2290180,
+      "name": "Riders Republic",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2290180/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "168.00",
+      "final_price": "117.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 3241660,
+      "name": "R.E.P.O.",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "35.00",
+      "final_price": "8.75",
+      "currency": "CNY"
+    },
+    {
+      "id": 753640,
+      "name": "Outer Wilds (星际拓荒)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/753640/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "57.00",
+      "final_price": "17.10",
+      "currency": "CNY"
+    },
+    {
+      "id": 632470,
+      "name": "Disco Elysium (极乐迪斯科)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "136.00",
+      "final_price": "81.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 736260,
+      "name": "Baba Is You",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/736260/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "50.00",
+      "final_price": "10.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 460950,
+      "name": "Katana Zero (武士零)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/460950/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "58.00",
+      "final_price": "17.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 219150,
+      "name": "Hotline Miami (迈阿密热线)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/219150/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "42.00",
+      "final_price": "35.70",
+      "currency": "CNY"
+    },
+    {
+      "id": 653530,
+      "name": "Return of the Obra Dinn (奥伯·丁的回归)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/653530/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "76.00",
+      "final_price": "49.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 1092790,
+      "name": "Inscryption (邪恶冥刻)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1092790/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "88.00",
+      "final_price": "61.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 1313140,
+      "name": "Cult of the Lamb (咩咩启示录)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1313140/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "118.00",
+      "final_price": "29.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 1057090,
+      "name": "Ori and the Will of the Wisps (奥日与鬼火意志)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1057090/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "90.00",
+      "final_price": "45.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 972660,
+      "name": "Spiritfarer (灵魂旅人)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/972660/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "108.00",
+      "final_price": "54.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1533420,
+      "name": "Neon White",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1533420/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "35.20",
+      "final_price": "17.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 1623860,
+      "name": "Sea of Stars (星之海)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1623860/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "22.00",
+      "final_price": "11.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1150690,
+      "name": "Omori",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1150690/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "70.00",
+      "final_price": "28.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1817230,
+      "name": "Hi-Fi RUSH",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817230/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "125.00",
+      "final_price": "42.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 1562430,
+      "name": "Dredge (渔帆暗涌)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1562430/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "110.00",
+      "final_price": "44.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 683320,
+      "name": "Gris",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/683320/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "58.00",
+      "final_price": "23.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 1135690,
+      "name": "Unpacking (开箱)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1135690/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "70.00",
+      "final_price": "14.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1332010,
+      "name": "Stray (流浪)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1332010/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "49.00",
+      "final_price": "16.66",
+      "currency": "CNY"
+    },
+    {
+      "id": 224760,
+      "name": "Fez",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/224760/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "36.00",
+      "final_price": "10.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 462770,
+      "name": "Pyre (柴堆)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/462770/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "76.00",
+      "final_price": "25.84",
+      "currency": "CNY"
+    },
+    {
+      "id": 1253920,
+      "name": "Rogue Legacy 2 (盗贼遗产 2)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1253920/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "92.00",
+      "final_price": "46.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 206190,
+      "name": "Gunpoint",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/206190/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "36.00",
+      "final_price": "25.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 368370,
+      "name": "Her Story (她的故事)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/368370/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "42.00",
+      "final_price": "29.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 258520,
+      "name": "The Vanishing of Ethan Carter (伊森卡特的消失)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/258520/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "76.00",
+      "final_price": "22.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 383870,
+      "name": "Firewatch (看火人)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/383870/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "76.00",
+      "final_price": "60.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 221910,
+      "name": "The Stanley Parable (史丹利的寓言)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/221910/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "55.00",
+      "final_price": "27.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 282140,
+      "name": "SOMA",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/282140/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "21.60",
+      "final_price": "7.34",
+      "currency": "CNY"
+    },
+    {
+      "id": 228300,
+      "name": "Outlast (逃生)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/228300/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "14.80",
+      "final_price": "2.96",
+      "currency": "CNY"
+    },
+    {
+      "id": 860510,
+      "name": "Little Nightmares II (小小梦魇 2)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/860510/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "38.94",
+      "final_price": "7.79",
+      "currency": "CNY"
+    },
+    {
+      "id": 40800,
+      "name": "Super Meat Boy (超级肉肉哥)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/40800/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "7.20",
+      "final_price": "4.32",
+      "currency": "CNY"
+    },
+    {
+      "id": 332200,
+      "name": "Axiom Verge (公理边缘)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/332200/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "68.00",
+      "final_price": "57.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 975510,
+      "name": "Blasphemous (神之亵渎)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/975510/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "70.00",
+      "final_price": "42.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 2114740,
+      "name": "Blasphemous 2 (神之亵渎 2)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2114740/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "130.00",
+      "final_price": "32.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 283640,
+      "name": "Salt and Sanctuary (盐与避难所)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/283640/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "60.00",
+      "final_price": "18.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 312520,
+      "name": "Rain World (雨世界)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/312520/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "38.70",
+      "final_price": "13.16",
+      "currency": "CNY"
+    },
+    {
+      "id": 848450,
+      "name": "Subnautica: Below Zero (深海迷航：零度以下)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/848450/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "149.00",
+      "final_price": "126.65",
+      "currency": "CNY"
+    },
+    {
+      "id": 361420,
+      "name": "Astroneer (异星探险家)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/361420/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "108.00",
+      "final_price": "75.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 219740,
+      "name": "Don't Starve (饥荒)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/219740/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "24.00",
+      "final_price": "16.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 323190,
+      "name": "Frostpunk (冰汽时代)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/323190/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "108.00",
+      "final_price": "86.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 242920,
+      "name": "Banished (放逐之城)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/242920/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "68.00",
+      "final_price": "34.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 24780,
+      "name": "SimCity 4 Deluxe (模拟城市 4)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/24780/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "98.00",
+      "final_price": "24.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 975370,
+      "name": "Dwarf Fortress (矮人要塞)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/975370/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "109.00",
+      "final_price": "21.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 233860,
+      "name": "Kenshi (剑士)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/233860/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "36.00",
+      "final_price": "30.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 1158310,
+      "name": "Crusader Kings III (十字军之王 3)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158310/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "118.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 1466860,
+      "name": "Age of Empires IV (帝国时代 4)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1466860/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "179.00",
+      "final_price": "89.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 1142710,
+      "name": "Total War: WARHAMMER III (全面战争：战锤 3)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1142710/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "298.00",
+      "final_price": "238.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 8930,
+      "name": "Civilization V (文明 5)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/8930/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "95.00",
+      "final_price": "19.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 268500,
+      "name": "XCOM 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/268500/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "99.00",
+      "final_price": "49.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 311690,
+      "name": "Enter the Gungeon (挺进地牢)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/311690/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "58.00",
+      "final_price": "14.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 242680,
+      "name": "Nuclear Throne (废土之王)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/242680/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "48.00",
+      "final_price": "16.32",
+      "currency": "CNY"
+    },
+    {
+      "id": 394970,
+      "name": "Deadbolt",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/394970/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "36.00",
+      "final_price": "12.24",
+      "currency": "CNY"
+    },
+    {
+      "id": 692890,
+      "name": "Roboquest (机器人探索)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/692890/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "78.99",
+      "final_price": "59.24",
+      "currency": "CNY"
+    },
+    {
+      "id": 1942280,
+      "name": "Brotato (土豆兄弟)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1942280/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "22.00",
+      "final_price": "5.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 2231450,
+      "name": "Pizza Tower (披萨塔)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2231450/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "68.00",
+      "final_price": "44.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 784080,
+      "name": "MechWarrior 5: Mercenaries",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/784080/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "90.00",
+      "final_price": "63.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1230140,
+      "name": "ATRI -My Dear Moments-",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1230140/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "73.00",
+      "final_price": "43.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 561770,
+      "name": "Just Ignore Them",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/561770/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "3.42",
+      "final_price": "1.37",
+      "currency": "CNY"
+    },
+    {
+      "id": 729720,
+      "name": "Zomborg",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/729720/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "3.52",
+      "final_price": "0.70",
+      "currency": "CNY"
+    },
+    {
+      "id": 49520,
+      "name": "Borderlands 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/49520/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "64.00",
+      "final_price": "32.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 232090,
+      "name": "Killing Floor 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/232090/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "88.00",
+      "final_price": "70.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 286690,
+      "name": "Metro 2033 Redux",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "98.00",
+      "final_price": "68.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 373600,
+      "name": "Weapon of Choice",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/373600/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "26.00",
+      "final_price": "19.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 413410,
+      "name": "Danganronpa: Trigger Happy Havoc",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/413410/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "68.00",
+      "final_price": "54.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 418370,
+      "name": "Resident Evil 7 Biohazard",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/418370/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "98.00",
+      "final_price": "78.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 433340,
+      "name": "Slime Rancher",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/433340/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "70.00",
+      "final_price": "28.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 489630,
+      "name": "Warhammer 40,000: Gladius - Relics of War",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/489630/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "150.50",
+      "final_price": "45.15",
+      "currency": "CNY"
+    },
+    {
+      "id": 521890,
+      "name": "Hello Neighbor",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/521890/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "108.00",
+      "final_price": "70.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 569610,
+      "name": "Distant Space",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/569610/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "6.00",
+      "final_price": "1.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 883710,
+      "name": "Resident Evil 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "148.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 976310,
+      "name": "Mortal Kombat 11",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "138.00",
+      "final_price": "89.70",
+      "currency": "CNY"
+    },
+    {
+      "id": 977950,
+      "name": "A Dance of Fire and Ice",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/977950/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "26.00",
+      "final_price": "16.90",
+      "currency": "CNY"
+    },
+    {
+      "id": 1449560,
+      "name": "Metro Exodus Enhanced Edition",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1449560/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "148.00",
+      "final_price": "50.32",
+      "currency": "CNY"
+    },
+    {
+      "id": 1608450,
+      "name": "Hellslave",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1608450/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "10.20",
+      "final_price": "8.16",
+      "currency": "CNY"
+    },
+    {
+      "id": 2194530,
+      "name": "Yog-Sothoth's Yard",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2194530/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "35.00",
+      "final_price": "22.75",
+      "currency": "CNY"
+    },
+    {
+      "id": 2543510,
+      "name": "GUNTOUCHABLES",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2543510/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "25.00",
+      "final_price": "18.75",
+      "currency": "CNY"
+    },
+    {
+      "id": 504230,
+      "name": "Celeste (蔚蓝)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/504230/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "17.00",
+      "final_price": "10.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 427520,
+      "name": "Factorio (异星工厂)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/427520/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "130.00",
+      "final_price": "84.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 391540,
+      "name": "Undertale (传说之下)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/391540/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "36.00",
+      "final_price": "18.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 632360,
+      "name": "Risk of Rain 2 (雨中冒险 2)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/632360/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "80.00",
+      "final_price": "56.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1794680,
+      "name": "Vampire Survivors (吸血鬼幸存者)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "20.00",
+      "final_price": "6.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 261570,
+      "name": "Ori and the Blind Forest (奥日与黑暗森林)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/261570/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "68.00",
+      "final_price": "23.12",
+      "currency": "CNY"
+    },
+    {
+      "id": 894020,
+      "name": "Death's Door (死亡之门)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/894020/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "76.00",
+      "final_price": "64.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 1229240,
+      "name": "Chained Echoes (锁链回声)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1229240/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "80.00",
+      "final_price": "16.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 2379780,
+      "name": "Balatro (小丑牌)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "54.00",
+      "final_price": "40.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 1497440,
+      "name": "Cocoon",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1497440/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "47.50",
+      "final_price": "28.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 1122720,
+      "name": "Sayonara Wild Hearts (再见狂野之心)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1122720/header.jpg",
+      "discount_percent": 35,
+      "discounted": true,
+      "original_price": "27.00",
+      "final_price": "17.55",
+      "currency": "CNY"
+    },
+    {
+      "id": 107100,
+      "name": "Bastion (堡垒)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/107100/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "58.00",
+      "final_price": "23.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 237930,
+      "name": "Transistor (晶体管)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/237930/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "76.00",
+      "final_price": "60.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 250760,
+      "name": "Shovel Knight: Treasure Trove (铲子骑士)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/250760/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "116.00",
+      "final_price": "23.20",
+      "currency": "CNY"
+    },
+    {
+      "id": 247080,
+      "name": "Crypt of the NecroDancer (节奏地牢)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/247080/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "48.00",
+      "final_price": "40.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 239030,
+      "name": "Papers, Please (请出示证件)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/239030/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "42.00",
+      "final_price": "10.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 501300,
+      "name": "What Remains of Edith Finch (艾迪芬奇的记忆)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/501300/header.jpg",
+      "discount_percent": 25,
+      "discounted": true,
+      "original_price": "19.50",
+      "final_price": "14.63",
+      "currency": "CNY"
+    },
+    {
+      "id": 303210,
+      "name": "The Beginner's Guide (新手指南)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/303210/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "36.00",
+      "final_price": "14.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 26800,
+      "name": "Braid (时空幻境)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/26800/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "48.00",
+      "final_price": "28.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 764790,
+      "name": "The Messenger (信使)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/764790/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "76.00",
+      "final_price": "22.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 692850,
+      "name": "Bloodstained: Ritual of the Night (赤痕：夜之仪式)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/692850/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "138.00",
+      "final_price": "96.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 1369630,
+      "name": "Ender Lilies: Quietus of the Knights (终焉之莉莉：骑士寂夜)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1369630/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "98.00",
+      "final_price": "24.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 1657630,
+      "name": "Slime Rancher 2 (史莱姆牧场 2)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1657630/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "90.00",
+      "final_price": "22.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 518790,
+      "name": "theHunter: Call of the Wild™",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/518790/header.jpg",
+      "discount_percent": 20,
+      "discounted": true,
+      "original_price": "70.00",
+      "final_price": "56.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1451940,
+      "name": "NEEDY STREAMER OVERLOAD",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1451940/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "54.00",
+      "final_price": "10.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 3470560,
+      "name": "Millennium Dream",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3470560/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "38.00",
+      "final_price": "9.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 814200,
+      "name": "Simple Story - Alex (简单故事 - 亚历克斯)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/814200/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "6.00",
+      "final_price": "1.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 1070710,
+      "name": "A Short Hike (小远足)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1070710/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "22.00",
+      "final_price": "8.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 57300,
+      "name": "Amnesia: The Dark Descent (失忆症：黑暗后裔)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/57300/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "76.00",
+      "final_price": "30.40",
+      "currency": "CNY"
+    },
+    {
+      "id": 424840,
+      "name": "Little Nightmares (小小梦魇)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/424840/header.jpg",
+      "discount_percent": 66,
+      "discounted": true,
+      "original_price": "98.00",
+      "final_price": "33.32",
+      "currency": "CNY"
+    },
+    {
+      "id": 457140,
+      "name": "Oxygen Not Included (缺氧)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/457140/header.jpg",
+      "discount_percent": 40,
+      "discounted": true,
+      "original_price": "58.00",
+      "final_price": "34.80",
+      "currency": "CNY"
+    },
+    {
+      "id": 282070,
+      "name": "This War of Mine (这是我的战争)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/282070/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "76.00",
+      "final_price": "64.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 233450,
+      "name": "Prison Architect (监狱建筑师)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/233450/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "34.50",
+      "final_price": "6.90",
+      "currency": "CNY"
+    },
+    {
+      "id": 48700,
+      "name": "Mount & Blade: Warband (骑马与砍杀：战团)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/48700/header.jpg",
+      "discount_percent": 70,
+      "discounted": true,
+      "original_price": "99.00",
+      "final_price": "29.70",
+      "currency": "CNY"
+    },
+    {
+      "id": 236850,
+      "name": "Europa Universalis IV (欧陆风云 4)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/236850/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "218.00",
+      "final_price": "43.60",
+      "currency": "CNY"
+    },
+    {
+      "id": 281990,
+      "name": "Stellaris (群星)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/281990/header.jpg",
+      "discount_percent": 15,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "168.30",
+      "currency": "CNY"
+    },
+    {
+      "id": 200510,
+      "name": "XCOM: Enemy Unknown",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/200510/header.jpg",
+      "discount_percent": 80,
+      "discounted": true,
+      "original_price": "75.00",
+      "final_price": "15.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 637090,
+      "name": "Battletech (战斗机甲)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/637090/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "188.00",
+      "final_price": "94.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 528230,
+      "name": "Synthetik: Legion Rising",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/528230/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "70.00",
+      "final_price": "17.50",
+      "currency": "CNY"
+    },
+    {
+      "id": 1217060,
+      "name": "Gunfire Reborn (枪火重生)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1217060/header.jpg",
+      "discount_percent": 75,
+      "discounted": true,
+      "original_price": "68.00",
+      "final_price": "17.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 1337520,
+      "name": "Risk of Rain Returns (雨中冒险 回归)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1337520/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "58.00",
+      "final_price": "29.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 48000,
+      "name": "Limbo (地狱边境)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/48000/header.jpg",
+      "discount_percent": 60,
+      "discounted": true,
+      "original_price": "45.00",
+      "final_price": "18.00",
+      "currency": "CNY"
+    },
+    {
+      "id": 220700,
+      "name": "RPG Maker VX Ace",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/220700/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "23.80",
+      "final_price": "11.90",
+      "currency": "CNY"
+    },
+    {
+      "id": 668580,
+      "name": "Atomic Heart",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/668580/header.jpg",
+      "discount_percent": 50,
+      "discounted": true,
+      "original_price": "59.75",
+      "final_price": "29.88",
+      "currency": "CNY"
+    },
+    {
+      "id": 779340,
+      "name": "Total War: THREE KINGDOMS (全面战争：三国)",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/779340/header.jpg",
+      "discount_percent": 30,
+      "discounted": true,
+      "original_price": "198.00",
+      "final_price": "138.60",
+      "currency": "CNY"
+    }
+  ]
+}

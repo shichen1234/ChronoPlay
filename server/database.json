@@ -1,0 +1,3321 @@
+{
+  "steamUser": {
+    "steamid": "76561199505177638",
+    "personaname": "时尘",
+    "avatar": "https://avatars.fastly.steamstatic.com/5b8825b34c5d77b00c3a18897f2f1175fa0e0e57.jpg"
+  },
+  "apiKey": "DFF99CB8CCF23AB32A7769B2BD9706AF",
+  "games": [
+    {
+      "id": 220,
+      "appid": 220,
+      "name": "Half-Life 2",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/220/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 220。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    },
+    {
+      "id": 320,
+      "appid": 320,
+      "name": "Half-Life 2: Deathmatch",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/320/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 320。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 360,
+      "appid": 360,
+      "name": "Half-Life Deathmatch: Source",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/360/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 360。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 400,
+      "appid": 400,
+      "name": "Portal",
+      "status": "正在游玩",
+      "playtime": "4小时",
+      "playtime_minutes": 223,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/400/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 400。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+    },
+    {
+      "id": 440,
+      "appid": 440,
+      "name": "Team Fortress 2",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/440/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 440。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 550,
+      "appid": 550,
+      "name": "Left 4 Dead 2",
+      "status": "正在游玩",
+      "playtime": "112小时",
+      "playtime_minutes": 6748,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/550/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 550。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+    },
+    {
+      "id": 620,
+      "appid": 620,
+      "name": "Portal 2",
+      "status": "正在游玩",
+      "playtime": "1小时",
+      "playtime_minutes": 62,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 620。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    },
+    {
+      "id": 730,
+      "appid": 730,
+      "name": "Counter-Strike 2",
+      "status": "正在游玩",
+      "playtime": "1小时",
+      "playtime_minutes": 59,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 730。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+    },
+    {
+      "id": 1250,
+      "appid": 1250,
+      "name": "Killing Floor",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1250/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1250。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #141e30, #243b55)"
+    },
+    {
+      "id": 21690,
+      "appid": 21690,
+      "name": "Resident Evil 5",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/21690/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 21690。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #141e30, #243b55)"
+    },
+    {
+      "id": 29900,
+      "appid": 29900,
+      "name": "Dark Sector",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/29900/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 29900。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+    },
+    {
+      "id": 49520,
+      "appid": 49520,
+      "name": "Borderlands 2",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/49520/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 49520。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+    },
+    {
+      "id": 218620,
+      "appid": 218620,
+      "name": "PAYDAY 2",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/218620/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 218620。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+    },
+    {
+      "id": 220700,
+      "appid": 220700,
+      "name": "RPG Maker VX Ace",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/220700/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 220700。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    },
+    {
+      "id": 221040,
+      "appid": 221040,
+      "name": "Resident Evil 6",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/221040/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 221040。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+    },
+    {
+      "id": 232090,
+      "appid": 232090,
+      "name": "Killing Floor 2",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/232090/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 232090。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    },
+    {
+      "id": 239140,
+      "appid": 239140,
+      "name": "Dying Light",
+      "status": "正在游玩",
+      "playtime": "2小时",
+      "playtime_minutes": 96,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/239140/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 239140。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    },
+    {
+      "id": 282800,
+      "appid": 282800,
+      "name": "100% Orange Juice",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/282800/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 282800。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    },
+    {
+      "id": 286690,
+      "appid": 286690,
+      "name": "Metro 2033 Redux",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/286690/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 286690。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+    },
+    {
+      "id": 304240,
+      "appid": 304240,
+      "name": "Resident Evil",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/304240/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 304240。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 321270,
+      "appid": 321270,
+      "name": "UNLOVED",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/321270/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 321270。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    },
+    {
+      "id": 332950,
+      "appid": 332950,
+      "name": "Dark Deception",
+      "status": "正在游玩",
+      "playtime": "1小时",
+      "playtime_minutes": 33,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/332950/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 332950。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+    },
+    {
+      "id": 339340,
+      "appid": 339340,
+      "name": "Resident Evil 0",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/339340/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 339340。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 373600,
+      "appid": 373600,
+      "name": "Weapon of Choice",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/373600/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 373600。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    },
+    {
+      "id": 410110,
+      "appid": 410110,
+      "name": "12 is Better Than 6",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/410110/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 410110。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #141e30, #243b55)"
+    },
+    {
+      "id": 412020,
+      "appid": 412020,
+      "name": "Metro Exodus",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/412020/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 412020。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+    },
+    {
+      "id": 413410,
+      "appid": 413410,
+      "name": "Danganronpa: Trigger Happy Havoc",
+      "status": "正在游玩",
+      "playtime": "0小时",
+      "playtime_minutes": 29,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/413410/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 413410。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+    },
+    {
+      "id": 413420,
+      "appid": 413420,
+      "name": "Danganronpa 2: Goodbye Despair",
+      "status": "正在游玩",
+      "playtime": "0小时",
+      "playtime_minutes": 1,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/413420/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 413420。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #141e30, #243b55)"
+    },
+    {
+      "id": 418370,
+      "appid": 418370,
+      "name": "Resident Evil 7 Biohazard",
+      "status": "正在游玩",
+      "playtime": "87小时",
+      "playtime_minutes": 5238,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/418370/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 418370。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+    },
+    {
+      "id": 418460,
+      "appid": 418460,
+      "name": "Rising Storm 2: Vietnam",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/418460/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 418460。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 418670,
+      "appid": 418670,
+      "name": "Pankapu",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/418670/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 418670。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+    },
+    {
+      "id": 431960,
+      "appid": 431960,
+      "name": "Wallpaper Engine",
+      "status": "正在游玩",
+      "playtime": "65小时",
+      "playtime_minutes": 3914,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/431960/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 431960。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 433340,
+      "appid": 433340,
+      "name": "Slime Rancher",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/433340/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 433340。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 448510,
+      "appid": 448510,
+      "name": "Overcooked",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/448510/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 448510。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+    },
+    {
+      "id": 489630,
+      "appid": 489630,
+      "name": "Warhammer 40,000: Gladius - Relics of War",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/489630/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 489630。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+    },
+    {
+      "id": 503560,
+      "appid": 503560,
+      "name": "911 Operator",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/503560/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 503560。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 518790,
+      "appid": 518790,
+      "name": "theHunter: Call of the Wild™",
+      "status": "正在游玩",
+      "playtime": "2小时",
+      "playtime_minutes": 96,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/518790/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 518790。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+    },
+    {
+      "id": 521890,
+      "appid": 521890,
+      "name": "Hello Neighbor",
+      "status": "正在游玩",
+      "playtime": "0小时",
+      "playtime_minutes": 16,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/521890/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 521890。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+    },
+    {
+      "id": 552500,
+      "appid": 552500,
+      "name": "Warhammer: Vermintide 2",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/552500/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 552500。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+    },
+    {
+      "id": 569610,
+      "appid": 569610,
+      "name": "Distant Space",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/569610/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 569610。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+    },
+    {
+      "id": 571310,
+      "appid": 571310,
+      "name": "SteamWorld Dig 2",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/571310/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 571310。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+    },
+    {
+      "id": 578080,
+      "appid": 578080,
+      "name": "PUBG: BATTLEGROUNDS",
+      "status": "正在游玩",
+      "playtime": "7小时",
+      "playtime_minutes": 399,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/578080/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 578080。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 668580,
+      "appid": 668580,
+      "name": "Atomic Heart",
+      "status": "正在游玩",
+      "playtime": "6小时",
+      "playtime_minutes": 374,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/668580/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 668580。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 674940,
+      "appid": 674940,
+      "name": "Stick Fight: The Game",
+      "status": "正在游玩",
+      "playtime": "3小时",
+      "playtime_minutes": 201,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 674940。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+    },
+    {
+      "id": 728880,
+      "appid": 728880,
+      "name": "Overcooked! 2",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/728880/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 728880。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 729720,
+      "appid": 729720,
+      "name": "Zomborg",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/729720/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 729720。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+    },
+    {
+      "id": 774171,
+      "appid": 774171,
+      "name": "Muse Dash",
+      "status": "正在游玩",
+      "playtime": "4小时",
+      "playtime_minutes": 215,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/774171/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 774171。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+    },
+    {
+      "id": 883710,
+      "appid": 883710,
+      "name": "Resident Evil 2",
+      "status": "正在游玩",
+      "playtime": "10小时",
+      "playtime_minutes": 603,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/883710/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 883710。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+    },
+    {
+      "id": 952060,
+      "appid": 952060,
+      "name": "Resident Evil 3",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/952060/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 952060。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    },
+    {
+      "id": 952070,
+      "appid": 952070,
+      "name": "RESIDENT EVIL RESISTANCE",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/952070/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 952070。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+    },
+    {
+      "id": 976310,
+      "appid": 976310,
+      "name": "Mortal Kombat 11",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 976310。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+    },
+    {
+      "id": 977950,
+      "appid": 977950,
+      "name": "A Dance of Fire and Ice",
+      "status": "正在游玩",
+      "playtime": "50小时",
+      "playtime_minutes": 2984,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/977950/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 977950。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #141e30, #243b55)"
+    },
+    {
+      "id": 1174180,
+      "appid": 1174180,
+      "name": "Red Dead Redemption 2",
+      "status": "正在游玩",
+      "playtime": "2小时",
+      "playtime_minutes": 138,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1174180。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    },
+    {
+      "id": 1196590,
+      "appid": 1196590,
+      "name": "Resident Evil Village",
+      "status": "正在游玩",
+      "playtime": "59小时",
+      "playtime_minutes": 3547,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1196590/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1196590。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+    },
+    {
+      "id": 1222700,
+      "appid": 1222700,
+      "name": "A Way Out",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1222700/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1222700。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+    },
+    {
+      "id": 1230140,
+      "appid": 1230140,
+      "name": "ATRI -My Dear Moments-",
+      "status": "正在游玩",
+      "playtime": "0小时",
+      "playtime_minutes": 1,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1230140/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1230140。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    },
+    {
+      "id": 1238810,
+      "appid": 1238810,
+      "name": "Battlefield™ V",
+      "status": "正在游玩",
+      "playtime": "54小时",
+      "playtime_minutes": 3221,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1238810/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1238810。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+    },
+    {
+      "id": 1238840,
+      "appid": 1238840,
+      "name": "Battlefield™ 1",
+      "status": "正在游玩",
+      "playtime": "9小时",
+      "playtime_minutes": 521,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1238840/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1238840。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+    },
+    {
+      "id": 1426210,
+      "appid": 1426210,
+      "name": "It Takes Two",
+      "status": "正在游玩",
+      "playtime": "39小时",
+      "playtime_minutes": 2366,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1426210。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+    },
+    {
+      "id": 1449560,
+      "appid": 1449560,
+      "name": "Metro Exodus Enhanced Edition",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1449560/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1449560。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+    },
+    {
+      "id": 1451940,
+      "appid": 1451940,
+      "name": "NEEDY STREAMER OVERLOAD",
+      "status": "正在游玩",
+      "playtime": "6小时",
+      "playtime_minutes": 369,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1451940/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1451940。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #141e30, #243b55)"
+    },
+    {
+      "id": 1517290,
+      "appid": 1517290,
+      "name": "Battlefield™ 2042",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1517290。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #141e30, #243b55)"
+    },
+    {
+      "id": 1608450,
+      "appid": 1608450,
+      "name": "Hellslave",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1608450/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1608450。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+    },
+    {
+      "id": 1659040,
+      "appid": 1659040,
+      "name": "HITMAN World of Assassination",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1659040/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1659040。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #141e30, #243b55)"
+    },
+    {
+      "id": 2050650,
+      "appid": 2050650,
+      "name": "Resident Evil 4",
+      "status": "正在游玩",
+      "playtime": "64小时",
+      "playtime_minutes": 3820,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2050650。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #141e30, #243b55)"
+    },
+    {
+      "id": 2073250,
+      "appid": 2073250,
+      "name": "Rift of the NecroDancer",
+      "status": "正在游玩",
+      "playtime": "5小时",
+      "playtime_minutes": 274,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2073250/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2073250。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+    },
+    {
+      "id": 2194530,
+      "appid": 2194530,
+      "name": "Yog-Sothoth's Yard",
+      "status": "正在游玩",
+      "playtime": "7小时",
+      "playtime_minutes": 432,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2194530/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2194530。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+    },
+    {
+      "id": 2290180,
+      "appid": 2290180,
+      "name": "Riders Republic",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2290180/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2290180。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+    },
+    {
+      "id": 2337860,
+      "appid": 2337860,
+      "name": "Nubs!",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2337860/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2337860。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+    },
+    {
+      "id": 2543510,
+      "appid": 2543510,
+      "name": "GUNTOUCHABLES",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2543510/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2543510。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+    },
+    {
+      "id": 2835570,
+      "appid": 2835570,
+      "name": "Buckshot Roulette",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2835570/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2835570。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+    },
+    {
+      "id": 3241660,
+      "appid": 3241660,
+      "name": "R.E.P.O.",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3241660/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 3241660。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+    },
+    {
+      "id": 3419430,
+      "appid": 3419430,
+      "name": "Bongo Cat",
+      "status": "正在游玩",
+      "playtime": "1小时",
+      "playtime_minutes": 31,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3419430/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 3419430。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+    },
+    {
+      "id": 3470560,
+      "appid": 3470560,
+      "name": "Millennium Dream",
+      "status": "正在游玩",
+      "playtime": "2小时",
+      "playtime_minutes": 118,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3470560/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 3470560。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+    },
+    {
+      "id": 561770,
+      "appid": 561770,
+      "name": "Just Ignore Them",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/561770/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 561770。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+    },
+    {
+      "id": 582660,
+      "appid": 582660,
+      "name": "Black Desert",
+      "status": "未开始",
+      "playtime": "0小时",
+      "playtime_minutes": 0,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/582660/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 582660。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    },
+    {
+      "id": 3557620,
+      "appid": 3557620,
+      "name": "Blue Archive",
+      "status": "正在游玩",
+      "playtime": "3小时",
+      "playtime_minutes": 170,
+      "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3557620/header.jpg",
+      "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 3557620。",
+      "tags": [
+        "Steam"
+      ],
+      "platform": "Steam",
+      "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+    }
+  ],
+  "userGames": {
+    "76561199815443022": [
+      {
+        "id": 220,
+        "appid": 220,
+        "name": "Half-Life 2",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/220/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 220。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+      },
+      {
+        "id": 320,
+        "appid": 320,
+        "name": "Half-Life 2: Deathmatch",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/320/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 320。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 360,
+        "appid": 360,
+        "name": "Half-Life Deathmatch: Source",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/360/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 360。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 561770,
+        "appid": 561770,
+        "name": "Just Ignore Them",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/561770/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 561770。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 582660,
+        "appid": 582660,
+        "name": "Black Desert",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/582660/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 582660。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 3557620,
+        "appid": 3557620,
+        "name": "Blue Archive",
+        "status": "正在游玩",
+        "playtime": "3小时",
+        "playtime_minutes": 170,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3557620/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 3557620。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      }
+    ],
+    "76561199505177638": [
+      {
+        "id": 220,
+        "appid": 220,
+        "name": "Half-Life 2",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/220/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 220。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 320,
+        "appid": 320,
+        "name": "Half-Life 2: Deathmatch",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/320/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 320。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 360,
+        "appid": 360,
+        "name": "Half-Life Deathmatch: Source",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/360/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 360。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+      },
+      {
+        "id": 400,
+        "appid": 400,
+        "name": "Portal",
+        "status": "正在游玩",
+        "playtime": "4小时",
+        "playtime_minutes": 223,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/400/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 400。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 440,
+        "appid": 440,
+        "name": "Team Fortress 2",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/440/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 440。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 550,
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "status": "正在游玩",
+        "playtime": "112小时",
+        "playtime_minutes": 6748,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/550/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 550。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 620,
+        "appid": 620,
+        "name": "Portal 2",
+        "status": "正在游玩",
+        "playtime": "1小时",
+        "playtime_minutes": 62,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 620。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 730,
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "status": "正在游玩",
+        "playtime": "1小时",
+        "playtime_minutes": 59,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 730。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 1250,
+        "appid": 1250,
+        "name": "Killing Floor",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1250/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1250。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 21690,
+        "appid": 21690,
+        "name": "Resident Evil 5",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/21690/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 21690。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 29900,
+        "appid": 29900,
+        "name": "Dark Sector",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/29900/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 29900。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 49520,
+        "appid": 49520,
+        "name": "Borderlands 2",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/49520/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 49520。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 218620,
+        "appid": 218620,
+        "name": "PAYDAY 2",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/218620/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 218620。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 220700,
+        "appid": 220700,
+        "name": "RPG Maker VX Ace",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/220700/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 220700。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 221040,
+        "appid": 221040,
+        "name": "Resident Evil 6",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/221040/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 221040。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 232090,
+        "appid": 232090,
+        "name": "Killing Floor 2",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/232090/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 232090。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+      },
+      {
+        "id": 239140,
+        "appid": 239140,
+        "name": "Dying Light",
+        "status": "正在游玩",
+        "playtime": "2小时",
+        "playtime_minutes": 96,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/239140/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 239140。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 282800,
+        "appid": 282800,
+        "name": "100% Orange Juice",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/282800/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 282800。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+      },
+      {
+        "id": 286690,
+        "appid": 286690,
+        "name": "Metro 2033 Redux",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/286690/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 286690。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 304240,
+        "appid": 304240,
+        "name": "Resident Evil",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/304240/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 304240。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 321270,
+        "appid": 321270,
+        "name": "UNLOVED",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/321270/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 321270。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 332950,
+        "appid": 332950,
+        "name": "Dark Deception",
+        "status": "正在游玩",
+        "playtime": "1小时",
+        "playtime_minutes": 33,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/332950/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 332950。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 339340,
+        "appid": 339340,
+        "name": "Resident Evil 0",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/339340/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 339340。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 373600,
+        "appid": 373600,
+        "name": "Weapon of Choice",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/373600/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 373600。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 410110,
+        "appid": 410110,
+        "name": "12 is Better Than 6",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/410110/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 410110。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 412020,
+        "appid": 412020,
+        "name": "Metro Exodus",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/412020/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 412020。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+      },
+      {
+        "id": 413410,
+        "appid": 413410,
+        "name": "Danganronpa: Trigger Happy Havoc",
+        "status": "正在游玩",
+        "playtime": "0小时",
+        "playtime_minutes": 29,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/413410/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 413410。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 413420,
+        "appid": 413420,
+        "name": "Danganronpa 2: Goodbye Despair",
+        "status": "正在游玩",
+        "playtime": "0小时",
+        "playtime_minutes": 1,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/413420/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 413420。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 418370,
+        "appid": 418370,
+        "name": "Resident Evil 7 Biohazard",
+        "status": "正在游玩",
+        "playtime": "87小时",
+        "playtime_minutes": 5238,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/418370/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 418370。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 418460,
+        "appid": 418460,
+        "name": "Rising Storm 2: Vietnam",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/418460/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 418460。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 418670,
+        "appid": 418670,
+        "name": "Pankapu",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/418670/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 418670。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 431960,
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "status": "正在游玩",
+        "playtime": "65小时",
+        "playtime_minutes": 3915,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/431960/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 431960。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 433340,
+        "appid": 433340,
+        "name": "Slime Rancher",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/433340/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 433340。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 448510,
+        "appid": 448510,
+        "name": "Overcooked",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/448510/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 448510。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 489630,
+        "appid": 489630,
+        "name": "Warhammer 40,000: Gladius - Relics of War",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/489630/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 489630。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 503560,
+        "appid": 503560,
+        "name": "911 Operator",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/503560/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 503560。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 518790,
+        "appid": 518790,
+        "name": "theHunter: Call of the Wild™",
+        "status": "正在游玩",
+        "playtime": "2小时",
+        "playtime_minutes": 96,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/518790/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 518790。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 521890,
+        "appid": 521890,
+        "name": "Hello Neighbor",
+        "status": "正在游玩",
+        "playtime": "0小时",
+        "playtime_minutes": 16,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/521890/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 521890。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 552500,
+        "appid": 552500,
+        "name": "Warhammer: Vermintide 2",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/552500/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 552500。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 569610,
+        "appid": 569610,
+        "name": "Distant Space",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/569610/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 569610。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 571310,
+        "appid": 571310,
+        "name": "SteamWorld Dig 2",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/571310/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 571310。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 578080,
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "status": "正在游玩",
+        "playtime": "7小时",
+        "playtime_minutes": 399,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/578080/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 578080。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 668580,
+        "appid": 668580,
+        "name": "Atomic Heart",
+        "status": "正在游玩",
+        "playtime": "6小时",
+        "playtime_minutes": 374,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/668580/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 668580。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 674940,
+        "appid": 674940,
+        "name": "Stick Fight: The Game",
+        "status": "正在游玩",
+        "playtime": "3小时",
+        "playtime_minutes": 201,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 674940。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 728880,
+        "appid": 728880,
+        "name": "Overcooked! 2",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/728880/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 728880。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 729720,
+        "appid": 729720,
+        "name": "Zomborg",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/729720/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 729720。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 774171,
+        "appid": 774171,
+        "name": "Muse Dash",
+        "status": "正在游玩",
+        "playtime": "4小时",
+        "playtime_minutes": 215,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/774171/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 774171。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 883710,
+        "appid": 883710,
+        "name": "Resident Evil 2",
+        "status": "正在游玩",
+        "playtime": "10小时",
+        "playtime_minutes": 603,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/883710/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 883710。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 952060,
+        "appid": 952060,
+        "name": "Resident Evil 3",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/952060/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 952060。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 952070,
+        "appid": 952070,
+        "name": "RESIDENT EVIL RESISTANCE",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/952070/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 952070。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 976310,
+        "appid": 976310,
+        "name": "Mortal Kombat 11",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 976310。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 977950,
+        "appid": 977950,
+        "name": "A Dance of Fire and Ice",
+        "status": "正在游玩",
+        "playtime": "50小时",
+        "playtime_minutes": 2984,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/977950/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 977950。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 1174180,
+        "appid": 1174180,
+        "name": "Red Dead Redemption 2",
+        "status": "正在游玩",
+        "playtime": "2小时",
+        "playtime_minutes": 138,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1174180。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 1196590,
+        "appid": 1196590,
+        "name": "Resident Evil Village",
+        "status": "正在游玩",
+        "playtime": "59小时",
+        "playtime_minutes": 3547,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1196590/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1196590。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 1222700,
+        "appid": 1222700,
+        "name": "A Way Out",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1222700/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1222700。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 1230140,
+        "appid": 1230140,
+        "name": "ATRI -My Dear Moments-",
+        "status": "正在游玩",
+        "playtime": "0小时",
+        "playtime_minutes": 1,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1230140/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1230140。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 1238810,
+        "appid": 1238810,
+        "name": "Battlefield™ V",
+        "status": "正在游玩",
+        "playtime": "54小时",
+        "playtime_minutes": 3221,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1238810/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1238810。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 1238840,
+        "appid": 1238840,
+        "name": "Battlefield™ 1",
+        "status": "正在游玩",
+        "playtime": "9小时",
+        "playtime_minutes": 521,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1238840/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1238840。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 1426210,
+        "appid": 1426210,
+        "name": "It Takes Two",
+        "status": "正在游玩",
+        "playtime": "39小时",
+        "playtime_minutes": 2366,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1426210。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 1449560,
+        "appid": 1449560,
+        "name": "Metro Exodus Enhanced Edition",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1449560/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1449560。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 1451940,
+        "appid": 1451940,
+        "name": "NEEDY STREAMER OVERLOAD",
+        "status": "正在游玩",
+        "playtime": "6小时",
+        "playtime_minutes": 369,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1451940/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1451940。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 1517290,
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1517290。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 1608450,
+        "appid": 1608450,
+        "name": "Hellslave",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1608450/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1608450。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 1659040,
+        "appid": 1659040,
+        "name": "HITMAN World of Assassination",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1659040/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1659040。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 2050650,
+        "appid": 2050650,
+        "name": "Resident Evil 4",
+        "status": "正在游玩",
+        "playtime": "64小时",
+        "playtime_minutes": 3820,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2050650/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2050650。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 2073250,
+        "appid": 2073250,
+        "name": "Rift of the NecroDancer",
+        "status": "正在游玩",
+        "playtime": "5小时",
+        "playtime_minutes": 278,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2073250/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2073250。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 2194530,
+        "appid": 2194530,
+        "name": "Yog-Sothoth's Yard",
+        "status": "正在游玩",
+        "playtime": "7小时",
+        "playtime_minutes": 432,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2194530/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2194530。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 2290180,
+        "appid": 2290180,
+        "name": "Riders Republic",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2290180/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2290180。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 2337860,
+        "appid": 2337860,
+        "name": "Nubs!",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2337860/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2337860。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 2543510,
+        "appid": 2543510,
+        "name": "GUNTOUCHABLES",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2543510/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2543510。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 2835570,
+        "appid": 2835570,
+        "name": "Buckshot Roulette",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2835570/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2835570。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 3241660,
+        "appid": 3241660,
+        "name": "R.E.P.O.",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3241660/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 3241660。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 3419430,
+        "appid": 3419430,
+        "name": "Bongo Cat",
+        "status": "正在游玩",
+        "playtime": "1小时",
+        "playtime_minutes": 31,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3419430/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 3419430。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 3470560,
+        "appid": 3470560,
+        "name": "Millennium Dream",
+        "status": "正在游玩",
+        "playtime": "2小时",
+        "playtime_minutes": 118,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3470560/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 3470560。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 2527500,
+        "appid": 2527500,
+        "name": "MiSide",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2527500/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2527500。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      }
+    ],
+    "76561199116928946": [
+      {
+        "id": 550,
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "status": "正在游玩",
+        "playtime": "39小时",
+        "playtime_minutes": 2356,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/550/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 550。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 620,
+        "appid": 620,
+        "name": "Portal 2",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 620。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 250900,
+        "appid": 250900,
+        "name": "The Binding of Isaac: Rebirth",
+        "status": "正在游玩",
+        "playtime": "80小时",
+        "playtime_minutes": 4787,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/250900/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 250900。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+      },
+      {
+        "id": 289070,
+        "appid": 289070,
+        "name": "Sid Meier's Civilization VI",
+        "status": "正在游玩",
+        "playtime": "0小时",
+        "playtime_minutes": 15,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/289070/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 289070。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 433340,
+        "appid": 433340,
+        "name": "Slime Rancher",
+        "status": "正在游玩",
+        "playtime": "0小时",
+        "playtime_minutes": 2,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/433340/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 433340。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+      },
+      {
+        "id": 435120,
+        "appid": 435120,
+        "name": "Rusty Lake Hotel",
+        "status": "正在游玩",
+        "playtime": "1小时",
+        "playtime_minutes": 76,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/435120/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 435120。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 518790,
+        "appid": 518790,
+        "name": "theHunter: Call of the Wild™",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/518790/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 518790。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+      },
+      {
+        "id": 532110,
+        "appid": 532110,
+        "name": "Rusty Lake: Roots",
+        "status": "正在游玩",
+        "playtime": "2小时",
+        "playtime_minutes": 91,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/532110/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 532110。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 578080,
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "status": "正在游玩",
+        "playtime": "3小时",
+        "playtime_minutes": 173,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/578080/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 578080。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 744190,
+        "appid": 744190,
+        "name": "Rusty Lake Paradise",
+        "status": "正在游玩",
+        "playtime": "3小时",
+        "playtime_minutes": 171,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/744190/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 744190。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 1145960,
+        "appid": 1145960,
+        "name": "The White Door",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1145960/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1145960。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 1238810,
+        "appid": 1238810,
+        "name": "Battlefield™ V",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1238810/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1238810。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 1238840,
+        "appid": 1238840,
+        "name": "Battlefield™ 1",
+        "status": "正在游玩",
+        "playtime": "1小时",
+        "playtime_minutes": 57,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1238840/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1238840。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 1292940,
+        "appid": 1292940,
+        "name": "Cube Escape Collection",
+        "status": "正在游玩",
+        "playtime": "1小时",
+        "playtime_minutes": 41,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1292940/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1292940。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 1515210,
+        "appid": 1515210,
+        "name": "The Past Within",
+        "status": "正在游玩",
+        "playtime": "0小时",
+        "playtime_minutes": 1,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1515210/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1515210。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+      },
+      {
+        "id": 1517290,
+        "appid": 1517290,
+        "name": "Battlefield™ 2042",
+        "status": "正在游玩",
+        "playtime": "4小时",
+        "playtime_minutes": 212,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1517290/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1517290。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 1659040,
+        "appid": 1659040,
+        "name": "HITMAN World of Assassination",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1659040/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1659040。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      }
+    ],
+    "76561199627944964": [
+      {
+        "id": 550,
+        "appid": 550,
+        "name": "Left 4 Dead 2",
+        "status": "正在游玩",
+        "playtime": "4小时",
+        "playtime_minutes": 261,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/550/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 550。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 730,
+        "appid": 730,
+        "name": "Counter-Strike 2",
+        "status": "正在游玩",
+        "playtime": "8小时",
+        "playtime_minutes": 486,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 730。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 206440,
+        "appid": 206440,
+        "name": "To the Moon",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/206440/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 206440。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 260230,
+        "appid": 260230,
+        "name": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
+        "status": "正在游玩",
+        "playtime": "6小时",
+        "playtime_minutes": 374,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/260230/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 260230。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 289070,
+        "appid": 289070,
+        "name": "Sid Meier's Civilization VI",
+        "status": "正在游玩",
+        "playtime": "0小时",
+        "playtime_minutes": 27,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/289070/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 289070。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 304390,
+        "appid": 304390,
+        "name": "FOR HONOR",
+        "status": "正在游玩",
+        "playtime": "1小时",
+        "playtime_minutes": 62,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/304390/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 304390。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 322330,
+        "appid": 322330,
+        "name": "Don't Starve Together",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/322330/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 322330。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 410110,
+        "appid": 410110,
+        "name": "12 is Better Than 6",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/410110/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 410110。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+      },
+      {
+        "id": 413150,
+        "appid": 413150,
+        "name": "Stardew Valley",
+        "status": "正在游玩",
+        "playtime": "17小时",
+        "playtime_minutes": 1002,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 413150。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 431960,
+        "appid": 431960,
+        "name": "Wallpaper Engine",
+        "status": "正在游玩",
+        "playtime": "17小时",
+        "playtime_minutes": 1049,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/431960/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 431960。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 448510,
+        "appid": 448510,
+        "name": "Overcooked",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/448510/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 448510。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 460960,
+        "appid": 460960,
+        "name": "The Deed: Dynasty",
+        "status": "正在游玩",
+        "playtime": "0小时",
+        "playtime_minutes": 1,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/460960/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 460960。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 477160,
+        "appid": 477160,
+        "name": "Human Fall Flat",
+        "status": "正在游玩",
+        "playtime": "4小时",
+        "playtime_minutes": 233,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/477160/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 477160。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 489630,
+        "appid": 489630,
+        "name": "Warhammer 40,000: Gladius - Relics of War",
+        "status": "正在游玩",
+        "playtime": "1小时",
+        "playtime_minutes": 45,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/489630/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 489630。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 508440,
+        "appid": 508440,
+        "name": "Totally Accurate Battle Simulator",
+        "status": "正在游玩",
+        "playtime": "8小时",
+        "playtime_minutes": 509,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/508440/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 508440。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 577740,
+        "appid": 577740,
+        "name": "Winexy",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/577740/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 577740。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 578080,
+        "appid": 578080,
+        "name": "PUBG: BATTLEGROUNDS",
+        "status": "正在游玩",
+        "playtime": "0小时",
+        "playtime_minutes": 13,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/578080/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 578080。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 588650,
+        "appid": 588650,
+        "name": "Dead Cells",
+        "status": "正在游玩",
+        "playtime": "1小时",
+        "playtime_minutes": 39,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/588650/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 588650。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 597170,
+        "appid": 597170,
+        "name": "Clone Drone in the Danger Zone",
+        "status": "正在游玩",
+        "playtime": "25小时",
+        "playtime_minutes": 1470,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/597170/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 597170。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #ff416c, #ff4b2b)"
+      },
+      {
+        "id": 627270,
+        "appid": 627270,
+        "name": "Injustice™ 2",
+        "status": "正在游玩",
+        "playtime": "1小时",
+        "playtime_minutes": 47,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/627270/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 627270。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 645630,
+        "appid": 645630,
+        "name": "Car Mechanic Simulator 2018",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/645630/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 645630。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 674940,
+        "appid": 674940,
+        "name": "Stick Fight: The Game",
+        "status": "正在游玩",
+        "playtime": "3小时",
+        "playtime_minutes": 150,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/674940/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 674940。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 714010,
+        "appid": 714010,
+        "name": "Aimlabs",
+        "status": "正在游玩",
+        "playtime": "4小时",
+        "playtime_minutes": 213,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/714010/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 714010。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 814380,
+        "appid": 814380,
+        "name": "Sekiro™: Shadows Die Twice",
+        "status": "正在游玩",
+        "playtime": "62小时",
+        "playtime_minutes": 3740,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 814380。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 829110,
+        "appid": 829110,
+        "name": "LEGO® DC Super-Villains",
+        "status": "正在游玩",
+        "playtime": "0小时",
+        "playtime_minutes": 19,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/829110/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 829110。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #3f4c6b, #606c88)"
+      },
+      {
+        "id": 976310,
+        "appid": 976310,
+        "name": "Mortal Kombat 11",
+        "status": "正在游玩",
+        "playtime": "2小时",
+        "playtime_minutes": 144,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/976310/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 976310。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 990080,
+        "appid": 990080,
+        "name": "Hogwarts Legacy",
+        "status": "正在游玩",
+        "playtime": "3小时",
+        "playtime_minutes": 174,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/990080/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 990080。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 1070580,
+        "appid": 1070580,
+        "name": "Drift86",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1070580/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1070580。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 1139900,
+        "appid": 1139900,
+        "name": "Ghostrunner",
+        "status": "正在游玩",
+        "playtime": "4小时",
+        "playtime_minutes": 235,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1139900/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1139900。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 1144200,
+        "appid": 1144200,
+        "name": "Ready or Not",
+        "status": "正在游玩",
+        "playtime": "11小时",
+        "playtime_minutes": 675,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1144200/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1144200。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 1174180,
+        "appid": 1174180,
+        "name": "Red Dead Redemption 2",
+        "status": "正在游玩",
+        "playtime": "3小时",
+        "playtime_minutes": 200,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1174180。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 1222140,
+        "appid": 1222140,
+        "name": "Detroit: Become Human",
+        "status": "正在游玩",
+        "playtime": "5小时",
+        "playtime_minutes": 287,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1222140/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1222140。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 1267540,
+        "appid": 1267540,
+        "name": "WRC 9 FIA World Rally Championship",
+        "status": "正在游玩",
+        "playtime": "7小时",
+        "playtime_minutes": 443,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1267540/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1267540。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 1288310,
+        "appid": 1288310,
+        "name": "Firework",
+        "status": "正在游玩",
+        "playtime": "3小时",
+        "playtime_minutes": 187,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1288310/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1288310。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 1426210,
+        "appid": 1426210,
+        "name": "It Takes Two",
+        "status": "正在游玩",
+        "playtime": "22小时",
+        "playtime_minutes": 1300,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1426210/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1426210。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 1634080,
+        "appid": 1634080,
+        "name": "Nocturnal",
+        "status": "正在游玩",
+        "playtime": "3小时",
+        "playtime_minutes": 176,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1634080/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 1634080。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 2138710,
+        "appid": 2138710,
+        "name": "Sifu",
+        "status": "正在游玩",
+        "playtime": "17小时",
+        "playtime_minutes": 996,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2138710/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2138710。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #74ebd5, #acb6e5)"
+      },
+      {
+        "id": 2689120,
+        "appid": 2689120,
+        "name": "Gladio Mori",
+        "status": "正在游玩",
+        "playtime": "7小时",
+        "playtime_minutes": 396,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2689120/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2689120。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #141e30, #243b55)"
+      },
+      {
+        "id": 2744880,
+        "appid": 2744880,
+        "name": "Climber Animals: Together",
+        "status": "正在游玩",
+        "playtime": "2小时",
+        "playtime_minutes": 97,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2744880/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2744880。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 2747770,
+        "appid": 2747770,
+        "name": "Wednesdays",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/2747770/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 2747770。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 3017580,
+        "appid": 3017580,
+        "name": "Paragnosia",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3017580/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 3017580。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #36d1dc, #5b86e5)"
+      },
+      {
+        "id": 3241660,
+        "appid": 3241660,
+        "name": "R.E.P.O.",
+        "status": "未开始",
+        "playtime": "0小时",
+        "playtime_minutes": 0,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3241660/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 3241660。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #56ab2f, #a8e063)"
+      },
+      {
+        "id": 3419430,
+        "appid": 3419430,
+        "name": "Bongo Cat",
+        "status": "正在游玩",
+        "playtime": "11小时",
+        "playtime_minutes": 664,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3419430/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 3419430。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #fceabb, #f8b500)"
+      },
+      {
+        "id": 3472040,
+        "appid": 3472040,
+        "name": "NBA 2K26",
+        "status": "正在游玩",
+        "playtime": "32小时",
+        "playtime_minutes": 1908,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/3472040/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 3472040。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      },
+      {
+        "id": 367520,
+        "appid": 367520,
+        "name": "Hollow Knight",
+        "status": "正在游玩",
+        "playtime": "52小时",
+        "playtime_minutes": 3101,
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg",
+        "desc": "这是一款来自 Steam 平台的优秀游戏。游戏 AppID 为 367520。",
+        "tags": [
+          "Steam"
+        ],
+        "platform": "Steam",
+        "bg": "linear-gradient(135deg, #1e3c72, #2a5298)"
+      }
+    ]
+  },
+  "proxyUrl": ""
+}

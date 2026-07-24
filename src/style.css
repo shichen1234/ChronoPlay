@@ -1,0 +1,43 @@
+/* src/style.css */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+  background-color: #0f172a;
+  overflow-x: hidden;
+}
+
+/* 全局禁止页面所有元素、组件、图片及超链接被选中或拖拽出界面 */
+*, *::before, *::after {
+  -webkit-user-drag: none !important;
+  user-drag: none !important;
+}
+
+img, a, div, span, p, h1, h2, h3, h4, h5, h6, button, canvas, svg {
+  -webkit-user-drag: none !important;
+  user-drag: none !important;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  /* === 新增背景图设置 === */
+  background-image: url('/background.jpg');
+  background-size: cover;         /* 让图片等比例缩放铺满整个屏幕 */
+  background-position: center;    /* 让图片居中显示 */
+  background-attachment: fixed;   /* 页面滚动时，背景图片固定不动 */
+  background-repeat: no-repeat;   /* 防止图片重复平铺 */
+}
+
+#app {
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* 自定义整个页面的滚动条，让它更像一个软件而不是网页 */
+::-webkit-scrollbar { width: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #bdc3c7; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: #95a5a6; }
