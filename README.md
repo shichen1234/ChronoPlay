@@ -122,40 +122,10 @@ ChronoPlay/
 └── package.json           # 项目依赖与构建指令
 ```
 
----
-
-## 🚀 快速开始
-
-### 1. 环境依赖
+### 环境依赖
 - [Node.js](https://nodejs.org/) (推荐 v18 及以上)
 - Windows 10 / 11 操作系统
 
-### 2. 安装与运行
-```bash
-# 克隆仓库
-git clone https://github.com/shichen1234/ChronoPlay.git
-cd ChronoPlay
-
-# 安装依赖
-npm install
-
-# 启动本地开发模式 (Vite 前端 + Express 后端)
-npm run dev
-```
-
----
-
-## 📦 打包与分发
-
-```bash
-# 1. 编译前端并构建 Electron 客户端
-npm run package:desktop
-
-# 2. 构建 Windows 单文件安装包
-# 使用 Inno Setup 打开 installer.iss，点击 Compile 即可在 installer-output/ 生成 ChronoPlay_Setup_1.1.exe
-```
-
----
 
 ## 📜 开源协议
 
