@@ -1,114 +1,162 @@
-# 🎮 ChronoPlay游戏中心
+<div align="center">
 
-[![Electron](https://img.shields.io/badge/Electron-v43.0.0-47848F?logo=electron)](https://www.electronjs.org/)
-[![Vue 3](https://img.shields.io/badge/Vue-3.x-4FC08D?logo=vuedotjs)](https://vuejs.org/)
-[![Vite](https://img.shields.io/badge/Vite-4.x-646CFF?logo=vite)](https://vitejs.dev/)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+# 🎮 ChronoPlay 游戏中心
 
-**ChronoPlay** 是一款专为游戏爱好者打造的高颜值、全能型游戏库管理与复古游戏娱乐桌面客户端。项目采用 Vue 3 + Vite 构建现代响应式 UI，融合 Node.js Express 后端服务，并基于 Electron 封装为独立的 Windows 原生客户端应用。
+**专为玩家打造的高颜值全能游戏库与复古游戏娱乐桌面客户端**
 
----
+[![Version](https://img.shields.io/badge/Version-v1.1-brightgreen.svg?style=flat-square)](https://github.com/shichen1234/ChronoPlay)
+[![Electron](https://img.shields.io/badge/Electron-v43.0.0-47848F?style=flat-square&logo=electron)](https://www.electronjs.org/)
+[![Vue 3](https://img.shields.io/badge/Vue-3.x-4FC08D?style=flat-square&logo=vuedotjs)](https://vuejs.org/)
+[![Vite](https://img.shields.io/badge/Vite-4.x-646CFF?style=flat-square&logo=vite)](https://vitejs.dev/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows)](https://www.microsoft.com/windows)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
-## ✨ 核心特色功能
-
-### 1. 👾 内嵌复古游戏厅 (Retro Game Hall)
-无需安装任何外部复杂模拟器或环境配置，点开即玩！基于底层 WebAssembly 模拟器核心（JSNES、FBNeo、mGBA），完美支持离线自托管：
-- **FC / 红白机经典**：超级马里奥、魂斗罗、双截龙、冒险岛、热血足球、坦克大战、中国象棋、五子棋等。
-- **街机 / NeoGeo 殿堂**：合金弹头全系列（1~5、X）、拳皇 97 / 98、恐龙快打等。
-- **GBA 掌机王国**：精灵宝可梦（火红/叶绿）、逆转裁判三部曲（1~3）、火焰之纹章三部曲（封印之剑/烈火之剑/圣魔之光石）、塞尔达传说：缩小帽、星之卡比：镜之迷宫、恶魔城：晓月圆舞曲。
-- **手柄与键盘映射系统**：支持自动识别外接 Xbox/PS 手柄与单手柄/双手柄 1P/2P 快速互换，并为 GBA 与街机游戏提供专属键位调整与快照 Save State 存档功能。
-
-### 2. 📉 Steam 史低价格与变动追踪
-对接 IsThereAnyDeal (ITAD) API 并结合 Supabase 云端 Edge Function 自动化任务：
-- **可视化折线图**：精准记录并绘制数百款热门 Steam 游戏的历史价格波动曲线。
-- **智能降价警报与比对**：自动比对国区现价与历史最低价，助您精明选购。
-
-### 3. 🚀 Steam 加速器与网络配置
-内置网络服务节点代理测试与一键开关逻辑，快速改善 Steam 商店与创意工坊图片及社区数据的加载体验。
-
-### 4. 🖥️ 原生桌面级体验
-- **单例进程保护**：防重复启动与端口占用（EADDRINUSE 自动修复）。
-- **系统托盘驻留**：支持最小化至任务栏右下角托盘，随用随唤。
-- **CORS放行与扩展适配**：内置 SteamDB 浏览器插件适配与自动化接口放行。
+</div>
 
 ---
 
-## 🛠️ 技术栈一览
+## 📖 项目简介
 
-- **前端 UI (Frontend)**: Vue 3, Vue Router, Pinia, Vite, ECharts (图表绘制), Vanilla CSS (现代化暗黑玻璃风)
-- **后端服务 (Server)**: Node.js, Express, Axios
-- **模拟器引擎 (Emulators)**: JSNES, EmulatorJS (mGBA / FBNeo WebAssembly Cores)
-- **云端与数据库 (Cloud & Database)**: Supabase (PostgreSQL), Supabase Edge Functions (Deno Cron)
-- **桌面包装 (Desktop Packager)**: Electron 43, Electron-Packager, Inno Setup
+**ChronoPlay** 是一款基于 **Vue 3 + Vite + Electron** 架构开发的现代化游戏聚合桌面应用。集 **多平台游戏库管理、Steam 史低行情监测、专属网络加速器、WebAssembly 复古模拟器厅** 于一体，提供沉浸式毛玻璃暗黑视觉与极致流畅的原生体验。
 
 ---
 
-## 📁 目录结构说明
+## ✨ 功能界面导览
+
+### 01. 🏠 沉浸式首页大厅
+> 动态大作焦点海报轮播，沉浸式暗黑毛玻璃质感，一键快速进入游戏专区与特惠商城。
+
+![沉浸式首页大厅](tupian/1.png)
+
+---
+
+### 02. 🛍️ 游戏特惠商店
+> 实时聚合 Steam 官方大促与精选特惠，集成个人愿望单降价通知与 Epic 喜加一限免速递。
+
+![游戏特惠商店](tupian/2.png)
+
+---
+
+### 03. 🏆 游戏专区与成就展柜
+> 完整收录游戏运行状态、系统配置要求与背景资料，原生嵌入玩家专属成就解锁展柜。
+
+![游戏专区与成就展柜](tupian/3.png)
+
+---
+
+### 04. ⚡ ChronoPlay 网络加速器
+> 内置 20+ 极速专线节点，支持一键实时低延迟测速，全方位加速 Steam 商店、社区与游戏服务。
+
+![ChronoPlay 网络加速器](tupian/4.png)
+
+---
+
+### 05. 🕹️ 经典复古游戏室
+> 集成 FC 红白机、街机 (Arcade / NeoGeo)、GBA 掌机与 PSP 经典分类，即点即玩无需复杂配置。
+
+![经典复古游戏室](tupian/5.png)
+
+---
+
+### 06. 🎮 PSP 掌机高清模拟
+> 采用 PPSSPP WebAssembly 3D 渲染核心，全屏流畅运行，支持自定义键位与手柄映射。
+
+![PSP 掌机高清模拟](tupian/6.png)
+
+---
+
+### 07. 📉 史低价格走势与商品详情
+> 智能分析历史 1 年最低价格走势曲线，提供实机演示视频、高清截图画廊与 DLC 拓展包清单。
+
+![史低价格走势与商品详情](tupian/7.png)
+
+---
+
+### 08. 📚 跨平台游戏统一收藏库
+> Steam 与 Epic Games 双平台游戏自动聚合，支持分类筛选、游玩状态标识与一键云端同步。
+
+![跨平台游戏统一收藏库](tupian/8.png)
+
+---
+
+### 09. 🍄 FC 红白机经典畅玩
+> 基于 JSNES 高保真核心，在线秒级拉取经典 ROM，内置手柄/键盘双人键位映射方案。
+
+![FC 红白机经典畅玩](tupian/9.png)
+
+---
+
+### 10. 👤 个人中心与多平台互联
+> 支持绑定 Steam 与 Epic Games 账号，资产实时互通同步，内置账号安全设置与个性化管理。
+
+![个人中心与多平台互联](tupian/10.png)
+
+---
+
+## 🛠️ 技术架构
+
+| 模块 | 技术选型 | 说明 |
+| :--- | :--- | :--- |
+| **前端架构** | Vue 3 + Vite + Pinia + Vue Router | 响应式状态管理与高效路由 |
+| **视觉与交互** | Modern CSS + ECharts | 暗黑拟物毛玻璃风格，图表可视化分析 |
+| **后端服务** | Node.js + Express + Axios | 本地代理、数据解析与安全 API 调用 |
+| **模拟器引擎** | WebAssembly (PPSSPP / FBNeo / JSNES / mGBA) | 纯浏览器端高性能离线自托管核心 |
+| **桌面包装** | Electron 43 + Inno Setup | Windows 原生窗口、系统托盘与安装包编译 |
+
+---
+
+## 📁 目录结构
 
 ```text
-game-collection/
-├── data/                  # 本地数据缓存目录 (如商店离线预载数据 store_cache.json)
-├── dist/                  # Vite 编译产物 (前端与工程静态资源)
-├── public/                # 静态文件、游戏卡带 ROM 及矢量封面
-│   ├── covers/            # 模拟器游戏高清 SVG/PNG 矢量封面
-│   └── emulatorjs/        # EmulatorJS WebAssembly 核心资源包
-├── src/                   # Vue 3 源码目录
-│   ├── assets/            # 样式与图片资源
-│   ├── components/        # 公用组件
-│   ├── store/             # Pinia 状态管理
-│   └── views/             # 页面视图 (Retro.vue 复古游戏厅, Store.vue 商店等)
-├── server/                # Express 后端本地服务器与 SQLite/JSON 数据库
-├── supabase/              # Supabase Edge Function 自动化任务配置
-├── electron-main.js       # Electron 主进程入口脚本
-├── build.js               # 打包优化与二进制体积瘦身脚本
-├── setup.iss              # Inno Setup 一键安装向导打包配置脚本
-└── package.json           # 项目依赖与运行命令
+ChronoPlay/
+├── tupian/                # README 界面截图资源 (1.png ~ 10.png)
+├── public/                # 静态文件、游戏 ROM 与矢量封面
+│   └── emulatorjs/        # WebAssembly 模拟器引擎资源
+├── src/                   # Vue 3 前端工程源码
+│   ├── assets/            # 全局样式与静态图标
+│   ├── views/             # 视图页面 (首页、商店、游戏库、加速器、模拟器)
+│   └── store/             # Pinia 状态管理
+├── server/                # Express 本地后端服务与代理
+├── electron-main.js       # Electron 主进程生命周期管理
+├── installer.iss          # Inno Setup 一键安装包配置脚本
+└── package.json           # 项目依赖与构建指令
 ```
 
 ---
 
-## 🚀 快速开始与开发指南
+## 🚀 快速开始
 
-### 1. 环境准备
-请确保您的电脑已安装 Node.js (推荐 v18.x 或更高版本)。
+### 1. 环境依赖
+- [Node.js](https://nodejs.org/) (推荐 v18 及以上)
+- Windows 10 / 11 操作系统
 
-### 2. 克隆项目与安装依赖
+### 2. 安装与运行
 ```bash
 # 克隆仓库
-git clone https://github.com/YourUsername/ChronoPlay.git
-
-# 进入目录
+git clone https://github.com/shichen1234/ChronoPlay.git
 cd ChronoPlay
 
-# 安装依赖包
+# 安装依赖
 npm install
-```
 
-### 3. 本地开发模式启动
-```bash
-# 启动本地 Vite 前端与 Express 后端开发服务器
+# 启动本地开发模式 (Vite 前端 + Express 后端)
 npm run dev
 ```
 
 ---
 
-## 📦 打包与发布
+## 📦 打包与分发
 
-### 1. 编译前端与生成 Electron 解压版客户端
 ```bash
-# 自动编译并打包至 desktop-app/ChronoPlay-win32-x64 目录
+# 1. 编译前端并构建 Electron 客户端
 npm run package:desktop
-```
 
-### 2. 构建 Windows 一键安装向导程序 (`Setup.exe`)
-项目内置了标准的 **Inno Setup** 打包配置文件 `setup.iss`：
-1. 下载并安装 [Inno Setup Compiler](https://jrsoftware.org/isdl.php)；
-2. 双击打开项目根目录下的 `setup.iss`；
-3. 点击工具栏的 **Compile (编译)** 按钮；
-4. 即可在 `release/` 目录生成体积仅约 300MB 的单文件安装包 `ChronoPlay_Setup_v1.0.exe`！
+# 2. 构建 Windows 单文件安装包
+# 使用 Inno Setup 打开 installer.iss，点击 Compile 即可在 installer-output/ 生成 ChronoPlay_Setup_1.1.exe
+```
 
 ---
 
-## 📜 许可证 (License)
+## 📜 开源协议
 
-本项目基于 [MIT License](LICENSE) 开源许可。可自由用于学习、二次开发与个人分享。
+本项目采用 [MIT License](LICENSE) 开源许可，欢迎体验、交流与二次开发。
