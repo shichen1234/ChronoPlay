@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="public/logo1.png" alt="ChronoPlay Logo" width="320" />
+
 # 🎮 ChronoPlay 游戏中心
 
 **专为玩家打造的高颜值全能游戏库与复古游戏娱乐桌面客户端**
@@ -18,6 +20,14 @@
 ## 📖 项目简介
 
 **ChronoPlay** 是一款基于 **Vue 3 + Vite + Electron** 架构开发的现代化游戏聚合桌面应用。集 **多平台游戏库管理、Steam 史低行情监测、专属网络加速器、WebAssembly 复古模拟器厅** 于一体，提供沉浸式毛玻璃暗黑视觉与极致流畅的原生体验。
+
+---
+
+## 🌌 客户端启动开屏
+
+> 原生粒子流光动态开屏窗口，深邃星空视觉与后台微服务静默预载。
+
+![ChronoPlay 客户端开屏](public/kaiping.png)
 
 ---
 
@@ -110,7 +120,9 @@
 ```text
 ChronoPlay/
 ├── tupian/                # README 界面截图资源 (1.png ~ 10.png)
-├── public/                # 静态文件、游戏 ROM 与矢量封面
+├── public/                # 静态文件、开屏图片、游戏 ROM 与矢量封面
+│   ├── logo1.png          # 官方 LOGO
+│   ├── kaiping.png        # 客户端粒子开屏图
 │   └── emulatorjs/        # WebAssembly 模拟器引擎资源
 ├── src/                   # Vue 3 前端工程源码
 │   ├── assets/            # 全局样式与静态图标
@@ -122,10 +134,40 @@ ChronoPlay/
 └── package.json           # 项目依赖与构建指令
 ```
 
-### 环境依赖
+---
+
+## 🚀 快速开始
+
+### 1. 环境依赖
 - [Node.js](https://nodejs.org/) (推荐 v18 及以上)
 - Windows 10 / 11 操作系统
 
+### 2. 安装与运行
+```bash
+# 克隆仓库
+git clone https://github.com/shichen1234/ChronoPlay.git
+cd ChronoPlay
+
+# 安装依赖
+npm install
+
+# 启动本地开发模式 (Vite 前端 + Express 后端)
+npm run dev
+```
+
+---
+
+## 📦 打包与分发
+
+```bash
+# 1. 编译前端并构建 Electron 客户端
+npm run package:desktop
+
+# 2. 构建 Windows 单文件安装包
+# 使用 Inno Setup 打开 installer.iss，点击 Compile 即可在 installer-output/ 生成 ChronoPlay_Setup_1.1.exe
+```
+
+---
 
 ## 📜 开源协议
 
